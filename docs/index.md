@@ -21,7 +21,7 @@ As a collaborative, unofficial community effort, this wiki invites you to contri
 
 - **Host:** [SpitfireCluster.com](https://spitfirecluster.com/) > [ASE PE 1000x PvP](https://spitfirecluster.com/index.php/primal-eternal-1000x-pvp/)
 - **Game:** Ark Survival Evolved
-- **Mods:** Primal Fear and Ark Eternal
+- **Mods:** Primal Fear, Ark Eternal, and more; see [Modpack Information](../modpack-information/)
 - **Rate:** 1000x
 - **Mode:** Player vs Player
 
