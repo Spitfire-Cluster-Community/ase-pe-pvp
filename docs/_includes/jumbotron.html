@@ -1,19 +1,19 @@
-<section class="pt-14 md:ml-64 {% if page.jumbotron_background %}bg-[center_top_-150px] bg-cover{% endif %}" {% if page.jumbotron_background %}style="background-image: url({{ page.jumbotron_background | prepend: "/assets/img/backgrounds/" | prepend: site.baseurl }});"{% endif %}>
-    <div class="px-4 {% if page.jumbotron_background %}py-12{% else %}py-4{% endif %}">
+<section class="pt-14 md:ml-64 {% if page.jumbotron.background.position %}bg-[{{ page.jumbotron.background.position }}]{% endif %} {% if page.jumbotron.background.image %}bg-cover{% endif %}" {% if page.jumbotron.background.image %}style="background-image: url({{ page.jumbotron.background.image | prepend: "/assets/img/backgrounds/" | prepend: site.baseurl }});"{% endif %}>
+    <div class="max-w-screen-lg mx-auto px-4 {% if page.jumbotron.background %}py-12{% else %}py-4{% endif %}">
         {% if page.image %}
         <div class="w-24 rounded-md border border-gray-200 dark:border-gray-500 float-right">
             <img class="h-24 w-24 object-cover rounded-md" alt="{{ page.title }}" src="{{ page.image | prepend: "/assets/img/terms/" | prepend: site.baseurl }}">
         </div>
         {% endif %}
 
-        <h1 class="text-4xl font-extrabold drop-shadow-2xl tracking-tight leading-none {% if page.jumbotron_background %}text-white{% else %}text-black dark:text-white{% endif %}
+        <h1 class="text-4xl font-extrabold drop-shadow-2xl tracking-tight leading-none {% if page.jumbotron.background %}text-white{% else %}text-black dark:text-white{% endif %}
  md:text-5xl lg:text-6xl">
-            <span class="{% if page.jumbotron_background %}bg-gray-700 bg-opacity-50 p-2{% endif %}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</span>
+            <span class="{% if page.jumbotron.background %}bg-gray-700 bg-opacity-50 p-2{% endif %}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</span>
         </h1>
 
         {% if page.description %}
-        <p class="{% if page.jumbotron_background %}mt-8 text-gray-300{% else %}mt-4 text-gray-700 dark:text-gray-300{% endif %} text-lg font-normal drop-shadow-2xl lg:text-xl">
-            <span class="{% if page.jumbotron_background %}bg-gray-700 bg-opacity-50 p-2{% endif %}">{{ page.description }}</span>
+        <p class="{% if page.jumbotron.background %}mt-8 text-gray-300{% else %}mt-4 text-gray-700 dark:text-gray-300{% endif %} text-lg font-normal drop-shadow-2xl lg:text-xl">
+            <span class="{% if page.jumbotron.background %}bg-gray-700 bg-opacity-50 p-2{% endif %}">{{ page.description }}</span>
         </p>
         {% endif %}
     </div>

@@ -3,7 +3,10 @@ title: Weapons and Parts
 menu: Guides
 sort_order: 40
 description: Unlock the power of Spitfire Cluster's unique weapon system with the Weapons and Parts guide.
-jumbotron_background: wallhaven-y85q87.png
+jumbotron:
+  background:
+    image: weapons-and-parts.png
+    position: center_top_-150px
 ---
 
 ## Which weapons are available?
