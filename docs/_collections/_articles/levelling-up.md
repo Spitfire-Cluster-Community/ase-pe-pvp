@@ -21,7 +21,7 @@ jumbotron:
 > At level 500 you unlock tek automatically. Other engrams can be unlocked by making an engram pod from automated ark, then using learn all engrams from it's radial menu.
 
 > [!IMPORTANT]
-> Levelling past level 40 will remove your New Player protection. See [PvP Protection](PvP-Protection).
+> Levelling past level 40 will remove your New Player protection. See [PvP Protection](../pvp-protection).
 
 ## Maximum Stat Values
 
