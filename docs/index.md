@@ -10,7 +10,9 @@ jumbotron:
 
 ## Welcome
 
-Welcome to the SpitfireCluster Ark Survival Evolved Primal Eternal 1000x PvP Handbook, your essential guide to navigating the exhilarating world of Ark within the SpitfireCluster. This comprehensive handbook details crucial aspects of the exclusive game mode. 
+Welcome to the SpitfireCluster Ark Survival Evolved Primal Eternal 1000x PvP Handbook, your essential guide to 
+navigating the exhilarating world of Ark within the SpitfireCluster. This comprehensive handbook details 
+crucial aspects of the exclusive game mode. 
 
 ## About
 

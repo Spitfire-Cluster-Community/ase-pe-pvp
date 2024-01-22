@@ -7,6 +7,14 @@
 - red theme
 - alert banners in markdown
 
+## Contributing
+
+As a collaborative, unofficial community effort, this handbook invites you to contribute, share insights, 
+suggest edits, or add new content to enhance the SpitfireCluster experience for everyone. 
+Join us in building a robust player manual for this outstanding gaming environment! 
+See the [Contributing Guide](https://github.com/Spitfire-Cluster-Community/ase-pe-pvp/blob/main/CONTRIBUTING.md) 
+for more information on how you can help the community.
+
 ## Technology
 
 - [GitHub Pages](refs/github-pages.md) - static site hosting service.
