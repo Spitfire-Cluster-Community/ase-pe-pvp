@@ -12,8 +12,6 @@ jumbotron:
 
 Welcome to the SpitfireCluster Ark Survival Evolved Primal Eternal 1000x PvP Handbook, your essential guide to navigating the exhilarating world of Ark within the SpitfireCluster. This comprehensive handbook details crucial aspects of the exclusive game mode. 
 
-As a collaborative, unofficial community effort, this wiki invites you to contribute, share insights, suggest edits, or add new content to enhance the SpitfireCluster experience for everyone. Join us in building a robust player manual for this outstanding gaming environment!
-
 ## About
 
 [![spitfirecluster]({{ site.baseurl }}/assets/img/spitfirecluster.png)](https://spitfirecluster.com/)
@@ -24,6 +22,15 @@ As a collaborative, unofficial community effort, this wiki invites you to contri
 - **Mods:** Primal Fear, Ark Eternal, and more; see [Modpack Information](../modpack-information/)
 - **Rate:** 1000x
 - **Mode:** Player vs Player
+
+## Contributing
+
+As a collaborative, unofficial community effort, this handbook invites you to contribute, share insights, 
+suggest edits, or add new content to enhance the SpitfireCluster experience for everyone. 
+Join us in building a robust player manual for this outstanding gaming environment! 
+See the [Contributing Guide](https://github.com/Spitfire-Cluster-Community/ase-pe-pvp/blob/main/CONTRIBUTING.md) 
+for more information on how you can help the community.
+
 
 <style>
 #home-logo {
