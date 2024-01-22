@@ -1,6 +1,4 @@
-# SpitfireCluster - Ark Primal Eternal 1000x PvP - Handbook
-
-[Official Handbook URL (v2)](https://spitfire-cluster-community.github.io/ase-pe-pvp/)
+# [SpitfireCluster - ASE PE 1000x PvP - Handbook](https://spitfire-cluster-community.github.io/ase-pe-pvp/)
 
 ## Todo
 
@@ -21,4 +19,4 @@
 ## Resources
 
 - [Dead Link Checker](refs/dead-link-checker.md) - scans the site for dead links.
-- [Handbook v1](https://github.com/Spitfire-Cluster-Community/ase-pe-pvp/wiki) - where it all began.
+- [Handbook (v1)](https://github.com/Spitfire-Cluster-Community/ase-pe-pvp/wiki) - where it all began.
