@@ -2,9 +2,9 @@ url: "https://Spitfire-Cluster-Community.github.io"
 baseurl: "/ase-pe-pvp"
 title: SpitfireCluster - ASE PE 1000x PvP - Handbook
 name: SC ASE PE 1000x PvP
-#logo: https://camo.githubusercontent.com/8c8edcc1e26124691ec778cf0a958fcfc2d1e9adb23ea93190443bca3f7c04e1/68747470733a2f2f7370697466697265636c75737465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30322f737069746669726566756c6c776974686f7574736861646f77322e706e67
 description: Provides a comprehensive guide on how to embark a journey within the SpitfireCluster Ark Primal Eternal 1000x PvP environment.
 repository: Spitfire-Cluster-Community/ase-pe-pvp
+google-analytics: G-3VX767JBK1
 plugins:
   - jekyll-github-metadata
   - jekyll-mentions
