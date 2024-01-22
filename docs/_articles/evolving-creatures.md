@@ -17,8 +17,10 @@ You should first see the [wiki.gg - Ark Eternal - Darkstar Creatures](https://ar
 - [wiki.gg - Evo Armoured DarkStar](https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Evo_Armoured_DarkStar_(Tamed))
 - [wiki.gg - Evo DarkStar Manticore](https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Evo_Darkstar_Manticore)
 
-> [!NOTE]
-> {% include term-link.html title="Darkstar Manticore" %} takes {% include term-link.html title="Alpha Wyvren Saddle" %}. This is a global saddle that should work on most creatures.
+<div class="markdown-alert markdown-alert-tip">
+<p class="markdown-alert-title">Note</p>
+<p>{% include term-link.html title="Darkstar Manticore" %} takes {% include term-link.html title="Alpha Wyvren Saddle" %}. This is a global saddle that should work on most creatures.</p>
+</div>
 
 ## Useful Structures
 

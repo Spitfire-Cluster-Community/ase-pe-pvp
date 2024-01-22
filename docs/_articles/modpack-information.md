@@ -80,4 +80,4 @@ And some others used to assist gameplay on Spitfire Cluster's servers:
 
 ### Upgrade My Dino
 
-Limited to Stat Swap and only available late game in the [Shop Menu](../shop-menu/).
+- Limited to Stat Swap and only available late game in the [Shop Menu](../shop-menu/).

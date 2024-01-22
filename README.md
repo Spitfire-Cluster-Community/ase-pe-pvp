@@ -1,11 +1,11 @@
-# [SpitfireCluster - ASE PE 1000x PvP - Handbook](https://spitfire-cluster-community.github.io/ase-pe-pvp/)
+# SpitfireCluster - ASE PE 1000x PvP - Handbook
+
+Visit the [SpitfireCluster - ASE PE 1000x PvP - Handbook](https://spitfire-cluster-community.github.io/ase-pe-pvp/)!
 
 ## Todo
 
 - term pages
-- glossary
-- red theme
-- alert banners in markdown
+- glossary page (searchable, etc)
 
 ## Contributing
 
@@ -27,4 +27,4 @@ for more information on how you can help the community.
 ## Resources
 
 - [Dead Link Checker](refs/dead-link-checker.md) - scans the site for dead links.
-- [Handbook (v1)](https://github.com/Spitfire-Cluster-Community/ase-pe-pvp/wiki) - where it all began.
+- [SpitfireCluster - ASE PE 1000x PvP - Wiki](https://github.com/Spitfire-Cluster-Community/ase-pe-pvp/wiki) - where it all began.

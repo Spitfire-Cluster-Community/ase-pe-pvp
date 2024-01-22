@@ -9,6 +9,12 @@
  **/
 
 .markdown-body {
+    /*global*/
+    --base-size-8: 8px;
+    --base-size-16: 16px;
+}
+
+.markdown-body {
     /*light*/
     color-scheme: light;
     --color-prettylights-syntax-comment: #57606a;

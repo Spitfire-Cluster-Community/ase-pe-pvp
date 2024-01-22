@@ -43,8 +43,10 @@ The following provides a guide to some essential and useful items.
 - {% include term-link.html title="Awesome Teleporter" %} and {% include term-link.html title="Awesome Teleporter Remote" %}
   - Allows you to teleport around the map and corpse recovery.
 
-> [!TIP]
-> Place **Eternal Corpse Recovery** on a thatch foundation so that it decays.  This will allow you to place another if you forget the original location.
+<div class="markdown-alert markdown-alert-tip">
+<p class="markdown-alert-title">Tip</p>
+<p>Place {% include term-link.html title="Eternal Corpse Recovery" %} on a {% include term-link.html title="S+ Thatch Foundation" %} so that it decays.  This will allow you to place another if you forget the original location.</p>
+</div>
 
 ### Crafting
 
@@ -91,5 +93,7 @@ The following armor sets are unbreakable:
 - {% include term-link.html title="Eternal Desert Cloth Armor Set" %}
 - {% include term-link.html title="Eternal Ghillie Armor Set" %}
 
-> [!TIP]
-> You can attach an {% include term-link.html title="Eternal Glider" %} to the chestpiece to fly around the map.
+<div class="markdown-alert markdown-alert-tip">
+<p class="markdown-alert-title">Tip</p>
+<p>You can attach an {% include term-link.html title="Eternal Glider" %} to the chestpiece to fly around the map.</p>
+</div>

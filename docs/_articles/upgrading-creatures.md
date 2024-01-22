@@ -22,8 +22,11 @@ Use the {% include term-link.html title="Dino Upgrade Table" %} to craft the ite
 
 If you want to take the effort you can cross-breed and merge all the stats into one creature. This simply involves breeding the creatures with the best stats and keeping the baby with the best of all the stats.
 
-> [!CAUTION]
-> Don't add too many base levels or all stats may reset!  This starts to happen at about level 1000.
+
+<div class="markdown-alert markdown-alert-caution">
+<p class="markdown-alert-title">Caution</p>
+<p>Don't add too many base levels or all stats may reset!  This starts to happen at about level 1000.</p>
+</div>
 
 ## Useful Items
 
@@ -65,5 +68,8 @@ If you want to take the effort you can cross-breed and merge all the stats into 
 
 Creatures can be cloned using the {% include term-link.html title="S+ Cloning Chamber" %}.  
 
-> [!NOTE]
-> Most creatures will clone in seconds, however some such as Demonic and Celestial will take the standard amount of time.
+<div class="markdown-alert markdown-alert-note">
+<p class="markdown-alert-title">Note</p>
+<p>Most creatures will clone in seconds, however some such as Demonic and Celestial will take the standard amount of time.</p>
+</div>
+

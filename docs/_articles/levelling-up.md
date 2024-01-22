@@ -17,15 +17,19 @@ jumbotron:
 | 16-500 | Craft {% include term-link.html title="Spitfire Spear" %}. |
 | 501-560 | Consume items from {% include term-link.html title="Ascender" %}. |
 
-> [!NOTE]
-> At level 500 you unlock tek automatically. Other engrams can be unlocked by making an engram pod from automated ark, then using learn all engrams from it's radial menu.
+<div class="markdown-alert markdown-alert-note">
+<p class="markdown-alert-title">Note</p>
+<p>At level 500 you unlock tek automatically. Other engrams can be unlocked by making an engram pod from automated ark, then using learn all engrams from it's radial menu.</p>
+</div>
 
-> [!IMPORTANT]
-> Levelling past level 40 will remove your New Player protection. See [PvP Protection](../pvp-protection).
+<div class="markdown-alert markdown-alert-important">
+<p class="markdown-alert-title">Important</p>
+<p>Levelling past level 40 will remove your New Player protection. See [PvP Protection](../pvp-protection).</p>
+</div>
 
 ## Maximum Stat Values
 
-Do not put more than 254 points into a stat or it will reset. The maximum values without armor or buffs are:
+The maximum values without armor or buffs are:
 
 | Stat | Max Value |
 | --- | --- |
@@ -34,6 +38,10 @@ Do not put more than 254 points into a stat or it will reset. The maximum values
 | Speed | 1243% |
 | Oxygen | 76300 |
 
+<div class="markdown-alert markdown-alert-caution">
+<p class="markdown-alert-title">Caution</p>
+<p>Do not put more than 254 points into a stat or it will reset.</p>
+</div>
 
 ## Experience Potions
 

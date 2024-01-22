@@ -21,14 +21,20 @@ jumbotron:
 | LRM Turret | 75K | 10000,150000,200000| AOE | BUG: Does zero damage. |
 | Bola Turret | <100 | 3000,8000,10000 | Single | Can bola any creatures and players. |
 
-> [!TIP]
-> A basic strategy is mostly T2 with AP ammo and spread in some Laser, Ice and Bola turrets.
+<div class="markdown-alert markdown-alert-important">
+<p class="markdown-alert-title">Important</p>
+<p>Set LRM to target `Players/Tames/Players&Tames Only` or it targets wilds in huge AOE and causes server lag.</p>
+</div>
 
-> [!IMPORTANT]
-> Set LRM to target `Players/Tames/Players&Tames Only` or it targets wilds in huge AOE and causes server lag.
+<div class="markdown-alert markdown-alert-note">
+<p class="markdown-alert-title">Note</p>
+<p>Spitfire turrets account for armor from a saddle or stone, but resistance from the creature does not count. A creature with 90% resistance and a Dodo with 0% will get hit the same.</p>
+</div>
 
-> [!NOTE]
-> Spitfire turrets account for armor from a saddle or stone, but resistance from the creature does not count. A creature with 90% resistance and a Dodo with 0% will get hit the same.
+<div class="markdown-alert markdown-alert-tip">
+<p class="markdown-alert-title">Tip</p>
+<p>A basic strategy is mostly T2 with AP ammo and spread in some Laser, Ice and Bola turrets.</p>
+</div>
 
 ## Ammo Types
 
@@ -41,8 +47,11 @@ jumbotron:
 | Electric | Stuns on hit  (can be resisted with potions) |
 | Arcane   | Drug Effect on hit (can be resisted with potions) |
 
-> [!TIP]
-> **S+ Autocrafters** can make ammo quickly and the `/fill` command can move ammo from your inventory to nearby compatible turrets.
+<div class="markdown-alert markdown-alert-tip">
+<p class="markdown-alert-title">Tip</p>
+<p>You can use an {% include term-link.html title="S+ Autocrafter" %} to make ammo quickly.</p>
+<p>Use the <code>/fill</code> command can move ammo from your inventory to nearby compatible turrets.</p>
+</div>
 
 ## Links
 

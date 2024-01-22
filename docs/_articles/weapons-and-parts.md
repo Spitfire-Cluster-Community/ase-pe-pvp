@@ -89,8 +89,7 @@ Attachments are required to upgrade some weapons to the Legendary tier. They can
 1. Ensure the weapon is selected then click Upgrade Weapon.
 1. The weapon will either be upgraded or it will tell you the missing parts. Repeat step 2 until the weapon is full upgraded.
 
-> [!TIP]
-> Use the {% include term-link.html title="Blueprint Station" %} to create a blueprint of your upgraded weapon incase you lose it.
-
-> [!TIP]
-> You will need multiple parts for an upgrade, it's recommended to put them directly into the {% include term-link.html title="Blueprint Station" %} and convert them to a blueprint for later use. Also see [how to blueprint unlimited crafts](../upgrading-items).
+<div class="markdown-alert markdown-alert-tip">
+<p class="markdown-alert-title">Tip</p>
+<p>Use the {% include term-link.html title="Blueprint Station" %} to create a blueprint of your upgraded weapon incase you lose it. You will need multiple parts for an upgrade, it's recommended to put them directly into the {% include term-link.html title="Blueprint Station" %} and convert them to a blueprint for later use. Also see <a href="../upgrading-items/">Upgrading Items</a> to blueprint beyond the limit of 3 crafts.</p>
+</div>
