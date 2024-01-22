@@ -658,6 +658,10 @@ video {
   margin-top: 2rem;
 }
 
+.ml-4 {
+  margin-left: 1rem;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -672,6 +676,10 @@ video {
 
 .table {
   display: table;
+}
+
+.contents {
+  display: contents;
 }
 
 .hidden {
@@ -1409,6 +1417,10 @@ video {
     display: grid;
   }
 
+  .sm\:justify-end {
+    justify-content: flex-end;
+  }
+
   .sm\:justify-items-end {
     justify-items: end;
   }
@@ -1419,6 +1431,10 @@ video {
 
   .sm\:p-0 {
     padding: 0px;
+  }
+
+  .sm\:p-4 {
+    padding: 1rem;
   }
 
   .sm\:px-4 {

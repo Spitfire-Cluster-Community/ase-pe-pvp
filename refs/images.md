@@ -25,6 +25,7 @@ convert original.png -crop 1024x300+0+140 cropped.png
 ### Sources
 
 - [index.png](https://steamuserimages-a.akamaihd.net/ugc/1653349811966104941/8621516B9F81A4A21A4D26B241C7245F351929B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+- [404.png](https://wallpapercosmos.com/w/middle-retina/b/0/5/1292438-2560x1080-desktop-dual-screen-ark-survival-evolved-background.jpg)
 - [join-and-favourite.png](https://ark.wiki.gg/images/thumb/e/ec/Vardiland_Village.jpg/1120px-Vardiland_Village.jpg)
 - [server-transfers.png](https://wallpapercosmos.com/w/middle-retina/4/2/e/1292443-3840x2160-desktop-4k-ark-survival-evolved-background.jpg)
 - [help-menu.png](https://images.nintendolife.com/screenshots/94013/large.jpg)

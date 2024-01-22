@@ -6,13 +6,11 @@
 
 - term pages
 - glossary
-- heroicon backgrounds
 - red theme
 - alert banners in markdown
-- broken link detection
 - links to edit on github
 
-## Technology Used
+## Technology
 
 - [GitHub Pages](refs/github-pages.md) - static site hosting service.
 - [Jekyll](refs/jekyll.md) - static site generator used by GitHub Pages. 
@@ -21,6 +19,7 @@
 - [GitHub Pages Markdown CSS](refs/github-pages-markdown-css.md) - minimal CSS to replicate the GitHub Markdown style.
 - [Images](refs/images.md) - list of images and where they were taken from.
 
-## Other Resources
+## Resources
 
-- [Handbook v1](https://github.com/Spitfire-Cluster-Community/ase-pe-pvp/wiki)
+- [Dead Link Checker](refs/dead-link-checker.md) - scans the site for dead links.
+- [Handbook v1](https://github.com/Spitfire-Cluster-Community/ase-pe-pvp/wiki) - where it all began.
