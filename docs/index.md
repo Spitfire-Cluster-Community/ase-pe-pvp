@@ -4,7 +4,7 @@ title: SC ASE PE 1000x PvP Handbook
 description: Step into the action-packed world of SpitfireCluster ASE PE 1000x PvP, equipped with knowledge from our detailed handbook.
 ---
 
-![spitfirecluster](../assets/img/spitfirecluster.png)
+![spitfirecluster]({{ site.baseurl }}/assets/img/spitfirecluster.png)
 
 ## Welcome
 
