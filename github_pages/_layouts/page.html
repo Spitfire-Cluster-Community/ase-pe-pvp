@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="antialiased bg-gray-50 dark:bg-gray-900 min-h-screen relative">
+    {% include navbar.html %}
+    {% include sidenav.html %}
+    {% include jumbotron.html %}
+    <main class="px-4 pt-4 pb-32 sm:pb-24 md:ml-64 {% assign extension = page.path | split: '.' | last %}{% if extension == 'md' %}markdown-body{% endif %}">
+        {{ content }}
+    </main>
+    {% include footer.html %}
+</div>

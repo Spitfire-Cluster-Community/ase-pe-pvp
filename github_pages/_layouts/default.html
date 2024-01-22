@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-AU" }}">
+
+<head>
+    {% include google-analytics.html %}
+    {% seo %}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/tailwind.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/github-markdown.css">
+</head>
+
+<body class="bg-gray-50 dark:bg-gray-800">
+
+{{ content }}
+
+<script src="{{ site.baseurl }}/assets/js/app.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.js" integrity="sha512-BJ/5sR2hFxQTKin/55JQCcMTObShDBAmVjL/3NR/MVcrhyOazJjAgvROem03+HYyGw16SVdSfoWCFGr9syxAKA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+</body>
+
+</html>
