@@ -21,7 +21,7 @@ yarn tailwindcss init -p
 Run the following to rebuild the CSS based on the used classes in the HTML:
 
 ```
-npx tailwindcss -i ./github_pages/assets/css/main.css -o ./github_pages/assets/css/tailwind.css --watch
+npx tailwindcss -i ./app/assets/css/main.css -o ./app/assets/css/tailwind.css --watch
 ```
 
 Note, the `--watch` option rebuilds the CSS each time the HTML changes.

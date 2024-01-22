@@ -7,5 +7,5 @@ services:
     ports:
       - "4000:4000"
     volumes:
-      - ./github_pages:/usr/src/app
+      - ./app:/usr/src/app
     tty: true
