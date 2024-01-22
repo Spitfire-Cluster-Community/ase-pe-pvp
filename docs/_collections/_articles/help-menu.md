@@ -20,7 +20,7 @@ From the menu you will be able to access:
 - Help
   - settings
   - rates
-  - rules
+  - rules - also see [ark rules on official Spitfire website](https://spitfirecluster.com/index.php/ark-rules/)
 - Information
   - vote and claim extra shop points
   - view stats 
