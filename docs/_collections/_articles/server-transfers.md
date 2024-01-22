@@ -3,6 +3,10 @@ title: Server Transfers
 menu: Information
 sort_order: 20
 description: Navigate the realm of character and item transfers between servers.
+jumbotron:
+  background:
+    image: server-transfers.png
+    position: center top
 ---
 
 ## Transferring Your Character

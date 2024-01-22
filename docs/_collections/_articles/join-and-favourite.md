@@ -3,6 +3,10 @@ title: Join and Favourite
 menu: Information
 sort_order: 10
 description: Easily join the servers with provided links and straightforward instructions.
+jumbotron:
+  background:
+    image: join-and-favourite.png
+    position: center top
 ---
 
 ## Direct Connect Links

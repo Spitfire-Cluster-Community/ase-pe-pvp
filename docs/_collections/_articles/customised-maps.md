@@ -2,7 +2,11 @@
 title: Customised Maps
 menu: Information
 sort_order: 80
-description: Explore SpitfireCluster's 5 active servers with custom map locations for an enhanced PvP experience.
+description: Explore five active servers with custom map locations for an enhanced PvP experience.
+jumbotron:
+  background:
+    image: customised-maps.png
+    position: center top
 ---
 
 ## Map Rotation

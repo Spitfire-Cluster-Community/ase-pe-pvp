@@ -6,7 +6,7 @@ description: Unlock the power of Spitfire Cluster's unique weapon system with th
 jumbotron:
   background:
     image: weapons-and-parts.png
-    position: center_top_-150px
+    position: center top
 ---
 
 ## Which weapons are available?

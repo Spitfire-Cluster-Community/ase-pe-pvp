@@ -3,6 +3,10 @@ title: Modpack Information
 menu: Information
 sort_order: 90
 description: Learn about SpitfireCluster's mod-packed servers with popular additions and exclusive enhancements.
+jumbotron:
+  background:
+    image: modpack-information.png
+    position: center top
 ---
 
 ## Installed Mods

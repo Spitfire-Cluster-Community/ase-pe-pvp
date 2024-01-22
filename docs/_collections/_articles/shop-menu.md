@@ -3,6 +3,10 @@ title: Shop Menu
 menu: Information
 sort_order: 40
 description: Unlock exclusive perks and claim Starter Kits, and earn daily points by voting.
+jumbotron:
+  background:
+    image: shop-menu.png
+    position: center top
 ---
 
 ## Accessing the Shop Menu
