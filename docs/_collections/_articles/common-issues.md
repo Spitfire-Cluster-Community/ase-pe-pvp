@@ -2,7 +2,7 @@
 title: Common Issues
 menu: Information
 sort_order: 100
-description: Encountering issues on SpitfireCluster? Check our Common Issues page for quick solutions.
+description: Encountering issues? Check our Common Issues page for quick solutions.
 jumbotron:
   background:
     image: common-issues.png

@@ -3,6 +3,10 @@ title: Evolving Creatures
 menu: Guides
 sort_order: 90
 description: Unlock the secrets of Darkstar creature evolution, revealing the path to capturing the strength of these formidable beings.
+jumbotron:
+  background:
+    image: evolving-creatures.png
+    position: center top
 ---
 
 ## Darkstar Evolution

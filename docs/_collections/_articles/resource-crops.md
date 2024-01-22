@@ -3,6 +3,10 @@ title: Resource Crops
 menu: Guides
 sort_order: 70
 description: Unlock the secrets of resource crops and duplication using Spitfire crop plots and seeds. 
+jumbotron:
+  background:
+    image: resource-crops.png
+    position: center top
 ---
 
 ## Resource Farming

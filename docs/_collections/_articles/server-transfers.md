@@ -2,7 +2,7 @@
 title: Server Transfers
 menu: Information
 sort_order: 20
-description: Navigate the realm of character and item transfers between servers.
+description: Explore the maps with character and item transfers between servers.
 jumbotron:
   background:
     image: server-transfers.png

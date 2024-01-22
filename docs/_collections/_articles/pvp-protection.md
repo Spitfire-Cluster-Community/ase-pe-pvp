@@ -3,6 +3,10 @@ title: PvP Protection
 menu: Guides
 sort_order: 30
 description: Maximize your security with protection features shielding you from rival players.
+jumbotron:
+  background:
+    image: pvp-protection.png
+    position: center top
 ---
 
 ## New Player Protection

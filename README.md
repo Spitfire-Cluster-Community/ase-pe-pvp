@@ -19,6 +19,7 @@
 - [Tailwind](refs/tailwind.md) - utility-first CSS framework.
 - [Flowbite](refs/flowbite.md) - library of UI components based on TailwindCSS.
 - [GitHub Pages Markdown CSS](refs/github-pages-markdown-css.md) - minimal CSS to replicate the GitHub Markdown style.
+- [Images](refs/images.md) - list of images and where they were taken from.
 
 ## Other Resources
 

@@ -3,6 +3,10 @@ title: Levelling Up
 menu: Guides
 sort_order: 10
 description: Embark on your adventure by levelling up your character stats.
+jumbotron:
+  background:
+    image: levelling-up.png
+    position: center top
 ---
 
 ## Leveling Strategies

@@ -2,8 +2,11 @@
 title: Survival Basics
 menu: Guides
 sort_order: 20
-description: Embark fully prepared with essential insights into Starter Kits, recovery structures, crafting, and key tools for success.
-jumbotron_background: survival-basics.jpg
+description: Essential insights into Starter Kits, recovery structures, early crafting, and key tools for success.
+jumbotron:
+  background:
+    image: survival-basics.png
+    position: center top
 ---
 
 ## Starter Kit

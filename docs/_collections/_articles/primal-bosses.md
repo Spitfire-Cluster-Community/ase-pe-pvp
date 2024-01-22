@@ -2,7 +2,11 @@
 title: Primal Bosses
 menu: Guides
 sort_order: 130
-description: Conquer early boss encounters to earn tokens, allowing you to summon higher-tier bosses and reap rewards in the form of enhanced armor and items.
+description: Conquer early boss encounters to earn tokens for summoning higher-tier bosses and reap rewards.
+jumbotron:
+  background:
+    image: primal-bosses.png
+    position: center top
 ---
 
 ## Structures

@@ -3,6 +3,10 @@ title: Upgrading Items
 menu: Guides
 sort_order: 60
 description: Elevate your tools, weapons, and armor to unprecedented levels of power.
+jumbotron:
+  background:
+    image: upgrading-items.png
+    position: center top
 ---
 
 ## How to upgrade an item to max stats

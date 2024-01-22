@@ -3,6 +3,10 @@ title: Spitfire Bosses
 menu: Guides
 sort_order: 110
 description: Secure exclusive endgame items by conquering the unique challenges posed by the custom Spitfire bosses.
+jumbotron:
+  background:
+    image: spitfire-bosses.png
+    position: center top
 ---
 
 ## Structures

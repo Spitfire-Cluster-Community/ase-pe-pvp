@@ -2,7 +2,11 @@
 title: Eternal Bosses
 menu: Guides
 sort_order: 120
-description: Acquire essential structures, items, armor, weapons, and tools through rewarding drops from Eternal bosses.
+description: Acquire essential structures, items, armor, weapons, and tools through rewarding drops.
+jumbotron:
+  background:
+    image: eternal-bosses.png
+    position: center top
 ---
 
 ## Structures

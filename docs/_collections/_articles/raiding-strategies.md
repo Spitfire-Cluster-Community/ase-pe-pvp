@@ -3,6 +3,10 @@ title: Raiding Strategies
 menu: Guides
 sort_order: 140
 description: Master the art of disrupting and overcoming base defenses.
+jumbotron:
+  background:
+    image: raiding-strategies.png
+    position: center top
 ---
 
 ## FOB Structures

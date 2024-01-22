@@ -3,6 +3,10 @@ title: Defence Strategies
 menu: Guides
 sort_order: 150
 description: Ensure the safety of your hard work by implementing essential defenses to protect your base.
+jumbotron:
+  background:
+    image: defence-strategies.png
+    position: center top
 ---
 
 ## Turret Info

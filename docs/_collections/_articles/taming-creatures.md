@@ -2,10 +2,12 @@
 title: Taming Creatures
 menu: Guides
 sort_order: 80
-description: Discover the art of creature taming where knockout and taming become fast and effortless with the right tools.
+description: Discover the art of creature taming where knockout and taming become fast and effortless.
+jumbotron:
+  background:
+    image: taming-creatures.png
+    position: center top
 ---
-
-You will find creature knockout and taming to be fast and easy on Spitfire Cluster once you have the right items.
 
 ## Useful Weapons
 

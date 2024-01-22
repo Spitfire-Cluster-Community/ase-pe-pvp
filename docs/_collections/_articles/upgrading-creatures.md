@@ -3,6 +3,10 @@ title: Upgrading Creatures
 menu: Guides
 sort_order: 100
 description: Unlock the full potential of your creatures by streamlining and simplifying breeding tasks through stat upgrades and potions.
+jumbotron:
+  background:
+    image: upgrading-creatures.png
+    position: center top
 ---
 
 ## Upgrading Creature Stats

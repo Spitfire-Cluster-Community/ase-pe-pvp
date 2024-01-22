@@ -3,6 +3,10 @@ title: Armor and Gear
 menu: Guides
 sort_order: 50
 description: Equip yourself and your creatures with top-tier armor and gear.
+jumbotron:
+  background:
+    image: armor-and-gear.png
+    position: center top
 ---
 
 ## Player Armor
