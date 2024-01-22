@@ -2,7 +2,7 @@
 module.exports = {
     darkMode: ['class', '[data-theme="dark"]'],
     content: [
-        './github_pages/**/*.html',
+        './docs/**/*.html',
     ],
     theme: {
         extend: {},

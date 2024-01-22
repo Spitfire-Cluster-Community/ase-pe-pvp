@@ -14,11 +14,11 @@
 
 ## Technology Used
 
-- [GitHub Pages](docs/github-pages.md) - static site hosting service.
-- [Jekyll](docs/jekyll.md) - static site generator used by GitHub Pages. 
-- [Tailwind](docs/tailwind.md) - utility-first CSS framework.
-- [Flowbite](docs/flowbite.md) - library of UI components based on TailwindCSS.
-- [GitHub Pages Markdown CSS](docs/github-pages-markdown-css.md) - minimal CSS to replicate the GitHub Markdown style.
+- [GitHub Pages](refs/github-pages.md) - static site hosting service.
+- [Jekyll](refs/jekyll.md) - static site generator used by GitHub Pages. 
+- [Tailwind](refs/tailwind.md) - utility-first CSS framework.
+- [Flowbite](refs/flowbite.md) - library of UI components based on TailwindCSS.
+- [GitHub Pages Markdown CSS](refs/github-pages-markdown-css.md) - minimal CSS to replicate the GitHub Markdown style.
 
 ## Other Resources
 
