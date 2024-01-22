@@ -9,14 +9,13 @@
         </div>
         {% endif %}
 
-        <h1 class="text-4xl font-extrabold drop-shadow-2xl tracking-tight {% if page.jumbotron.background %}text-white{% else %}text-black dark:text-white{% endif %}
- md:text-5xl lg:text-6xl">
-            <span class="{% if page.jumbotron.background %}bg-gray-700 bg-opacity-50 p-2{% endif %}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</span>
+        <h1 class="text-4xl font-extrabold drop-shadow-2xl tracking-tight text-black dark:text-white md:text-5xl lg:text-6xl">
+            <span class="{% if page.jumbotron.background %}bg-gray-200 dark:bg-gray-700 bg-opacity-60 dark:bg-opacity-50 p-2{% endif %}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</span>
         </h1>
 
         {% if page.description %}
-        <p class="{% if page.jumbotron.background %}mt-8 text-gray-300{% else %}mt-4 text-gray-700 dark:text-gray-300{% endif %} leading-10 lg:leading-10 text-lg font-normal drop-shadow-2xl lg:text-xl">
-            <span class="{% if page.jumbotron.background %}bg-gray-700 bg-opacity-50 p-2{% endif %}">{{ page.description }}</span>
+        <p class="{% if page.jumbotron.background %}mt-8{% else %}mt-4{% endif %} text-gray-800 dark:text-gray-300 leading-10 lg:leading-10 text-lg font-normal drop-shadow-2xl lg:text-xl">
+            <span class="{% if page.jumbotron.background %}bg-gray-200 dark:bg-gray-700 bg-opacity-60 dark:bg-opacity-50 p-2{% endif %}">{{ page.description }}</span>
         </p>
         {% endif %}
     </div>
