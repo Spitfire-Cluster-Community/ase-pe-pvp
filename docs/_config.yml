@@ -12,7 +12,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
-collections_dir: _collections
 collections:
   articles:
     permalink: /:title/

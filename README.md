@@ -8,7 +8,6 @@
 - glossary
 - red theme
 - alert banners in markdown
-- links to edit on github
 
 ## Technology
 
