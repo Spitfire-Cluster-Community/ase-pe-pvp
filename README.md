@@ -7,8 +7,6 @@ Visit the [SpitfireCluster - ASE PE 1000x PvP - Handbook](https://spitfire-clust
 - term pages
 - glossary page (searchable, etc)
 - change term link to allow any collection (collection link)
-- google link on 404
-- home link on 404
 
 ## Contributing
 
