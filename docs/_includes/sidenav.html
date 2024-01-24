@@ -3,7 +3,7 @@
         aria-label="Sidenav"
         id="drawer-navigation"
 >
-    <div class="overflow-y-auto py-5 px-3 h-full bg-white dark:bg-gray-800">
+    <div class="overflow-y-auto pt-5 pb-12 px-3 h-full bg-white dark:bg-gray-800">
         <ul>
             <li>
                 <span class="flex items-center py-1 px-2 text-base font-bold text-gray-900 rounded-lg dark:text-white">
@@ -44,4 +44,11 @@
             {% endfor %}
         </ul>
     </div>
+
+    <div class="hidden absolute bottom-0 left-0 justify-center w-full lg:flex bg-white dark:bg-gray-800 z-20 border-r border-gray-200 dark:border-gray-700">
+        <a href="{{ site.baseurl }}/glossary/" class="inline-flex justify-center px-2 py-1 text-gray-500 rounded dark:text-gray-400 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-600">
+            Glossary of Terms
+        </a>
+    </div>
+
 </aside>
