@@ -13,7 +13,8 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the project's License.
+By contributing, you agree that your contributions will be licensed under the 
+project's [license](https://github.com/Spitfire-Cluster-Community/ase-pe-pvp/blob/main/LICENSE).
 
 ## Code of Conduct
 
