@@ -1,5 +1,6 @@
 ---
 title: Eternal Workbench
+image: eternal-workbench.png
 description: "Craft the ARK: Eternal items in this sturdy bench."
 category: Structure
 mod: Ark Eternal
