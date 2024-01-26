@@ -1,12 +1,12 @@
 {% if page.jumbotron.background.image %}
-{% assign background_image = page.jumbotron.background.image | prepend: "/assets/img/backgrounds/" | prepend: site.baseurl %}
+    {% assign background_image = page.jumbotron.background.image | prepend: "/assets/img/backgrounds/" | prepend: site.baseurl %}
 {% endif %}
 <section class="pt-14 md:ml-64 {% if page.jumbotron.background.image %}bg-cover{% endif %}" style="{% if background_image %}background-image: url({{ background_image }});{% endif %} {% if page.jumbotron.background.position %}background-position: {{ page.jumbotron.background.position }};{% endif %}">
     <div class="max-w-screen-lg mx-auto px-4 {% if page.jumbotron.background %}py-12{% else %}py-4{% endif %}">
         {% if page.image %}
-        <div class="w-24 rounded-md border border-gray-200 dark:border-gray-500 float-right">
-            <img class="h-24 w-24 object-cover rounded-md" alt="{{ page.title }}" src="{{ page.image | prepend: "/assets/img/terms/" | prepend: site.baseurl }}">
-        </div>
+            <div class="w-24 rounded-md border border-gray-200 dark:border-gray-500 float-right">
+                <img class="h-24 w-24 object-cover rounded-md" alt="{{ page.title }}" src="{{ page.image | prepend: "/assets/img/terms/" | prepend: site.baseurl }}">
+            </div>
         {% endif %}
 
         <h1 class="text-4xl font-extrabold drop-shadow-2xl tracking-tight text-black dark:text-white md:text-5xl lg:text-6xl">
@@ -14,9 +14,9 @@
         </h1>
 
         {% if page.description %}
-        <p class="{% if page.jumbotron.background %}mt-8{% else %}mt-4{% endif %} text-gray-800 dark:text-gray-300 leading-10 lg:leading-10 text-lg font-normal drop-shadow-2xl lg:text-xl">
-            <span class="{% if page.jumbotron.background %}bg-gray-200 dark:bg-gray-700 bg-opacity-60 dark:bg-opacity-50 p-2{% endif %}">{{ page.description }}</span>
-        </p>
+            <p class="{% if page.jumbotron.background %}mt-8{% else %}mt-4{% endif %} text-gray-800 dark:text-gray-300 leading-10 lg:leading-10 text-lg font-normal drop-shadow-2xl lg:text-xl">
+                <span class="{% if page.jumbotron.background %}bg-gray-200 dark:bg-gray-700 bg-opacity-60 dark:bg-opacity-50 p-2{% endif %}">{{ page.description }}</span>
+            </p>
         {% endif %}
     </div>
 </section>

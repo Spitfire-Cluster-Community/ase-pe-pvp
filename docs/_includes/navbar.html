@@ -11,15 +11,15 @@
                     </svg>
                     <span class="sr-only">Toggle sidebar</span>
                 </button>
-                <a href="{{site.baseurl}}/" class="flex items-center justify-between mr-4">
+                <a href="{{ site.baseurl }}/" class="flex items-center justify-between mr-4">
                     {% if site.logo %}
-                    <img
-                            src="{{site.logo}}"
-                            class="mr-3 h-8"
-                            alt="{{site.name}} Logo"
-                    />
+                        <img
+                                src="{{ site.logo }}"
+                                class="mr-3 h-8"
+                                alt="{{ site.name }} Logo"
+                        />
                     {% endif %}
-                    <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white hidden sm:flex mr-2">{{site.name}}</span>
+                    <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white hidden sm:flex mr-2">{{ site.name }}</span>
                     <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white flex">Handbook</span>
                 </a>
             </div>
@@ -29,7 +29,7 @@
                         <path fill-rule="evenodd" d="M2 12a10 10 0 1 1 20 0 10 10 0 0 1-20 0Zm9.4-5.5a1 1 0 1 0 0 2 1 1 0 1 0 0-2ZM10 10a1 1 0 1 0 0 2h1v3h-1a1 1 0 1 0 0 2h4a1 1 0 1 0 0-2h-1v-4c0-.6-.4-1-1-1h-2Z" clip-rule="evenodd"/>
                     </svg>
                 </a>
-                <a href="https://github.com/{{site.repository}}/edit/main/docs/{{page.path}}" title="Edit {{page.path}}" target="_blank" class="text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none rounded-lg text-sm p-2.5">
+                <a href="https://github.com/{{ site.repository }}/edit/main/docs/{{ page.path }}" title="Edit {{ page.path }}" target="_blank" class="text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none rounded-lg text-sm p-2.5">
                     <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m14.3 4.8 2.9 2.9M7 7H4a1 1 0 0 0-1 1v10c0 .6.4 1 1 1h11c.6 0 1-.4 1-1v-4.5m2.4-10a2 2 0 0 1 0 3l-6.8 6.8L8 14l.7-3.6 6.9-6.8a2 2 0 0 1 2.8 0Z"/>
                     </svg>

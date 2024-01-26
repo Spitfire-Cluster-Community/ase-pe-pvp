@@ -1,37 +1,42 @@
 <dl class="max-w-md text-gray-900 divide-y divide-gray-200 dark:text-white dark:divide-gray-700">
     {% if page.helmet %}
-    {% assign helmet = site.armor | where:"title", page.helmet | first %}
-    <div class="flex flex-col pb-3">
-        <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400"><a href="{{ helmet.url | prepend: site.url}}">{{helmet.title}}</a></dt>
-        <dd class="text-lg font-semibold">{{ helmet.content | markdownify }}</dd>
-    </div>
+        {% assign helmet = site.armor | where: "title", page.helmet | first %}
+        <div class="flex flex-col pb-3">
+            <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400">
+                <a href="{{ helmet.url | prepend: site.url }}">{{ helmet.title }}</a></dt>
+            <dd class="text-lg font-semibold">{{ helmet.content | markdownify }}</dd>
+        </div>
     {% endif %}
     {% if page.gauntlets %}
-    {% assign gauntlets = site.armor | where:"title", page.gauntlets | first %}
-    <div class="flex flex-col py-3">
-        <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400"><a href="{{ gauntlets.url | prepend: site.url}}">{{gauntlets.title}}</a></dt>
-        <dd class="text-lg font-semibold">{{ gauntlets.content | markdownify }}</dd>
-    </div>
+        {% assign gauntlets = site.armor | where: "title", page.gauntlets | first %}
+        <div class="flex flex-col py-3">
+            <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400">
+                <a href="{{ gauntlets.url | prepend: site.url }}">{{ gauntlets.title }}</a></dt>
+            <dd class="text-lg font-semibold">{{ gauntlets.content | markdownify }}</dd>
+        </div>
     {% endif %}
     {% if page.chestpiece %}
-    {% assign chestpiece = site.armor | where:"title", page.chestpiece | first %}
-    <div class="flex flex-col pt-3">
-        <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400"><a href="{{ chestpiece.url | prepend: site.url}}">{{chestpiece.title}}</a></dt>
-        <dd class="text-lg font-semibold">{{ chestpiece.content | markdownify }}</dd>
-    </div>
+        {% assign chestpiece = site.armor | where: "title", page.chestpiece | first %}
+        <div class="flex flex-col pt-3">
+            <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400">
+                <a href="{{ chestpiece.url | prepend: site.url }}">{{ chestpiece.title }}</a></dt>
+            <dd class="text-lg font-semibold">{{ chestpiece.content | markdownify }}</dd>
+        </div>
     {% endif %}
     {% if page.leggings %}
-    {% assign leggings = site.armor | where:"title", page.leggings | first %}
-    <div class="flex flex-col pt-3">
-        <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400"><a href="{{ leggings.url | prepend: site.url}}">{{leggings.title}}</a></dt>
-        <dd class="text-lg font-semibold">{{ leggings.content | markdownify }}</dd>
-    </div>
+        {% assign leggings = site.armor | where: "title", page.leggings | first %}
+        <div class="flex flex-col pt-3">
+            <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400">
+                <a href="{{ leggings.url | prepend: site.url }}">{{ leggings.title }}</a></dt>
+            <dd class="text-lg font-semibold">{{ leggings.content | markdownify }}</dd>
+        </div>
     {% endif %}
     {% if page.boots %}
-    {% assign boots = site.armor | where:"title", page.boots | first %}
-    <div class="flex flex-col pt-3">
-        <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400"><a href="{{ boots.url | prepend: site.url}}">{{boots.title}}</a></dt>
-        <dd class="text-lg font-semibold">{{ boots.content | markdownify }}</dd>
-    </div>
+        {% assign boots = site.armor | where: "title", page.boots | first %}
+        <div class="flex flex-col pt-3">
+            <dt class="mb-1 text-gray-500 md:text-lg dark:text-gray-400">
+                <a href="{{ boots.url | prepend: site.url }}">{{ boots.title }}</a></dt>
+            <dd class="text-lg font-semibold">{{ boots.content | markdownify }}</dd>
+        </div>
     {% endif %}
 </dl>
