@@ -14,7 +14,7 @@ jumbotron:
 Use the [Shop Menu](../shop-menu) to claim one of your free Starter Kits. You will receive a few tools and tames to help you with harvesting and processing basic resources.
 
 - {% include term-link.html title="Spitfire Pick" %} and {% include term-link.html title="Spitfire Hatchet" %}  - Basic metal tools.
-- {% include term-link.html title="Awesome Spyglass" %}- See creature stats.
+- {% include term-link.html title="Awesome Spyglass" %} - See creature stats.
 - {% include term-link.html title="Soul Trap" %} - Store tamed creatures in your inventory.
 - {% include term-link.html title="Eternal Ankylo" %} and {% include term-link.html title="Eternal Ankylo Saddle" %} - Saddle acts like a Forge.
 - {% include term-link.html title="Eternal Doedicurus" %} and {% include term-link.html title="Eternal Doedicurus Saddle" %} - Saddle acts like a Mortar and Pestle
