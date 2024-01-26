@@ -13,13 +13,24 @@ jumbotron:
 
 | Turret | Base Damage | Range | Target | Features |
 | --- | --- | --- | --- | --- |
-| T1 Turret | 1M | 3000,8000,10000 | Single | - |
-| T2 Turret | 5M | 3000,8000,10000 | Single | - |
-| T3 Turret | 50M | 3000,8000,10000 | Single | - |
-| T4 Turret | 150M | 3000,8000,10000 | Single | All ammo is considered AP. Does not need power. |
+| T1 Turret | 1M | 3000,8000,10000 | Single |
+| T2 Turret | 5M | 3000,8000,10000 | Single |
+| T2 Turret | 5M | 3000,8000,10000 | Single |
+| T2 AP Turret | 5M | 3000,8000,10000 | Single |
+| T2 Arcane Turret | 5M | 3000,8000,10000 | Single |
+| T2 Electric Turret | 5M | 3000,8000,10000 | Single |
+| T2 Fire Turret | 5M | 3000,8000,10000 | Single |
+| T2 Ice Turret | 5M | 3000,8000,10000 | Single |
+| T3 Turret | 50M | 3000,8000,10000 | Single |
+| T4 Turret | 150M | 3000,8000,10000 | Single |
+| T4 Electric Turret | 150M | 3000,8000,10000 | Single | 
+| T4 Fire Turret | 150M | 3000,8000,10000 | Single | 
+| T4 Ice Turret | 150M | 3000,8000,10000 | Single | 
 | Laser Turret | 45% of Max Health | 3000,8000,10000 | Single | Slow fire rate (charges up to fire) |
-| LRM Turret | 75K | 10000,150000,200000| AOE | BUG: Does zero damage. |
+| LRM Turret | 75K | 10000,150000,200000| AOE | BUG: Does zero damage - need to retest since turret redo in S52. |
 | Bola Turret | <100 | 3000,8000,10000 | Single | Can bola any creatures and players. |
+
+T4 Turrets do not need power and all ammo is all considered AP.
 
 <div class="markdown-alert markdown-alert-important">
 <p class="markdown-alert-title">Important</p>
@@ -33,7 +44,7 @@ jumbotron:
 
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Tip</p>
-<p>A basic strategy is mostly T2 with AP ammo and spread in some Laser, Ice and Bola turrets.</p>
+<p>A basic strategy is mostly T2 with mixed ammo types and spread in some Laser.  Mix in som T3/T4 if you have them.</p>
 </div>
 
 ## Ammo Types
@@ -53,10 +64,21 @@ jumbotron:
 <p>Use the <code>/fill</code> command can move ammo from your inventory to nearby compatible turrets.</p>
 </div>
 
-## Links
+## Turret Video Guide
 
-- [youtube - All about turrets Spitfire Cluster 1000x](https://www.youtube.com/watch?v=Xg38wURfe2I)
-- [youtube - Season 35 Primal Eternal Ice Cave Tour - Spitfire Cluster](https://www.youtube.com/watch?v=62KzscWwIMA)
-- [youtube - Primal Eternal 1000x Season 34 Alpha Base](https://www.youtube.com/watch?v=mr7DMzcr_0A)
-- [youtube - Raiding on Spitfire cluster Primal Eternal 1000x!](https://www.youtube.com/watch?v=3A4hgHwYrp0)
-- [youtube - Season 45 Event Base Tour - Primal Eternal Spitfire 1000x](https://www.youtube.com/watch?v=247RtYzLoIU)
+{% include youtube.html id="Xg38wURfe2I" %}
+
+
+## Base Tours
+
+### Season 34
+{% include youtube.html id="mr7DMzcr_0A" %}
+
+### Season 35
+{% include youtube.html id="62KzscWwIMA" %}
+
+### Raiding on Spitfire
+{% include youtube.html id="3A4hgHwYrp0" %}
+
+### Season 45
+{% include youtube.html id="247RtYzLoIU" %}
