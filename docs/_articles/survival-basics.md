@@ -44,10 +44,13 @@ The following provides a guide to some essential and useful items.
 - {% include term-link.html title="Eternal Forge" %} - Quickly smelt metal.
 - {% include term-link.html title="Spitfire Armory" %} - Craft weapons, turrets, ammo, etc.
   - Also see [youtube Spitfire Armory Showcase](https://www.youtube.com/watch?v=Naniu1xnSMQ)
+- {% include term-link.html title="Eternal Resource Converter" %} - Crafts some items needed for PvE tasks.
 - {% include term-link.html title="AA Workbench" %} - Crafts other AA buildings.
 - {% include term-link.html title="AA Auto Grill" %} - Cooks meat in bulk.
 - {% include term-link.html title="AA Spoiling Bin" %} - Spoils meat in bulk.
 - {% include term-link.html title="AA Cauldron" %} - Cooks recipes quickly (eg Mindwipe).
+
+
 
 ### Tools
 
