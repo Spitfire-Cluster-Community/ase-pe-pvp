@@ -42,7 +42,7 @@ The following provides a guide to some essential and useful items.
   - Allows retrieval of items from your corpse.
 - {% include term-link.html title="Awesome Teleporter" %} and {% include term-link.html title="Awesome Teleporter Remote" %}
   - Allows you to teleport around the map and corpse recovery.
-- {% include term-link.html title="Loadout Mannequin" %} (limit=1)
+- {% include term-link.html title="Loadout Mannequin" %}
   - Quickly swap gear and inventory.
   
 <div class="markdown-alert markdown-alert-tip">
