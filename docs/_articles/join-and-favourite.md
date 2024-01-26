@@ -21,14 +21,11 @@ Click the links or paste them into your address bar or create a bookmark:
 
 ## How to Favourite in Steam
 
-1. Open Steam.
-2. From the top menu, click **View** > **Game Servers**
+1. Open Steam. From the top menu, click **View** > **Game Servers**
 ![favourite-1]({{ site.baseurl }}/assets/img/articles/favourite-1.webp)
-4. Click the **Favourites** tab.
+2. Click the **Favourites** tab then click the **+** to add a new server.
 ![favourite-1]({{ site.baseurl }}/assets/img/articles/favourite-2.webp)
-5. Click the **+** to add a new server.
-6. Enter one of the following:
-
+3. Enter one of the following:
 ```
 servers.spitfirecluster.com:37049
 servers.spitfirecluster.com:37050
@@ -36,6 +33,4 @@ servers.spitfirecluster.com:37053
 servers.spitfirecluster.com:37052
 servers.spitfirecluster.com:37074
 ```
-
 ![favourite-3]({{ site.baseurl }}/assets/img/articles/favourite-3.webp)
-
