@@ -52,6 +52,6 @@ Gain XP by consuming these potions.
 - {% include term-link.html title="Large Experience Potion" %}
 - {% include term-link.html title="Max Experience Potion" %}
 
-## Links
+## Video Guide
 
-- [youtube - How to Power Level - Spitfire Cluster](https://www.youtube.com/watch?v=6d3El8jvUw8)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6d3El8jvUw8?si=uUSm7nob9IOIaBh3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
