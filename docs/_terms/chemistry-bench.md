@@ -1,8 +1,10 @@
 ---
 title: Chemistry Bench
-image: chemistry-bench.png
+image: https://ark.wiki.gg/images/thumb/9/9d/Chemistry_Bench.png/228px-Chemistry_Bench.png
 category: Structure
 mod: Base
+references:
+  - url: https://ark.wiki.gg/wiki/Chemistry_Bench
 recipes: 
   - structures: [Fabricator, Tek Replicator]
     ingredients: 

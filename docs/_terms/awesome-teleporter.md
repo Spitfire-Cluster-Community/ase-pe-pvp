@@ -1,6 +1,5 @@
 ---
 title: Awesome Teleporter
-image: awesome-teleporter.png
 category: Structure
 mod: Awesome Teleporters!
 recipes:

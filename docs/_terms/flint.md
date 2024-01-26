@@ -1,7 +1,9 @@
 ---
 title: Flint
-image: flint.png
+image: https://ark.wiki.gg/images/thumb/2/2e/Flint.png/228px-Flint.png
 category: Resource
 mod: Base
-drops_from: Rock
+references:
+  - url: https://ark.wiki.gg/wiki/Flint
+drops_from: Rocks
 ---

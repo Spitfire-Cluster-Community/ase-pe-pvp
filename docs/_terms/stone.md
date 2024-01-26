@@ -1,7 +1,9 @@
 ---
 title: Stone
-image: stone.png
+image: https://ark.wiki.gg/images/thumb/d/d4/Stone.png/228px-Stone.png
 category: Resource
 mod: Base
-drops_from: Rock
+references:
+  - url: https://ark.wiki.gg/wiki/Stone
+drops_from: Rocks
 ---

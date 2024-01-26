@@ -1,8 +1,10 @@
 ---
 title: Fabricator
-image: fabricator.png
+image: https://ark.wiki.gg/images/thumb/6/66/Fabricator.png/228px-Fabricator.png
 category: Structure
 mod: Base
+references:
+  - url: https://ark.wiki.gg/wiki/Fabricator
 recipes: 
   - structures: [Smithy, Argentavis Saddle, Castoroides Saddle, Thorny Dragon Saddle (Scorched Earth), Tek Replicator]
     ingredients: 

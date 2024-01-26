@@ -1,7 +1,9 @@
 ---
 title: Hide
-image: hide.png
+image: https://ark.wiki.gg/images/thumb/9/96/Hide.png/228px-Hide.png
 category: Resource
 mod: Base
+references:
+  - url: https://ark.wiki.gg/wiki/Hide
 drops_from: Creatures
 ---

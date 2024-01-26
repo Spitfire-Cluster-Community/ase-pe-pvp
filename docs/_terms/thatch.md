@@ -1,7 +1,9 @@
 ---
 title: Thatch
-image: thatch.png
+image: https://ark.wiki.gg/images/thumb/5/51/Thatch.png/228px-Thatch.png
 category: Resource
 mod: Base
-drops_from: Tree
+references:
+  - url: https://ark.wiki.gg/wiki/Thatch
+drops_from: Trees
 ---

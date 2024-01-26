@@ -1,6 +1,7 @@
 ---
 title: Inventory
-image: inventory.png
 category: Structure
 mod: Base
+references:
+  - url: https://ark.wiki.gg/wiki/Inventory
 ---

@@ -5,7 +5,7 @@
     <div class="max-w-screen-lg mx-auto px-4 {% if page.jumbotron.background %}py-12{% else %}py-4{% endif %}">
         {% if page.image %}
             <div class="w-24 rounded-md border border-gray-200 dark:border-gray-500 float-right">
-                <img class="h-24 w-24 object-cover rounded-md" alt="{{ page.title }}" src="{{ page.image | prepend: "/assets/img/terms/" | prepend: site.baseurl }}">
+                <img class="h-24 w-24 object-cover rounded-md" alt="{{ page.title }} image" src="{{ page.image }}">
             </div>
         {% endif %}
 

@@ -1,8 +1,10 @@
 ---
 title: Tek Transmitter
-image: tek-transmitter.png
+image: https://ark.wiki.gg/images/thumb/1/18/Tek_Transmitter.png/228px-Tek_Transmitter.png
 category: Structure
 mod: Base
+references:
+  - url: https://ark.wiki.gg/wiki/Tek_Transmitter
 recipes: 
   - structures: [Tek Replicator]
     ingredients: 

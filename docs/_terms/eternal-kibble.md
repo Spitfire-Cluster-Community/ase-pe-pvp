@@ -1,6 +1,6 @@
 ---
 title: Eternal Kibble
-image: eternal-kibble.png
+image: https://ark.wiki.gg/images/thumb/3/30/Mod_Ark_Eternal_Eternal_Kibble.png/228px-Mod_Ark_Eternal_Eternal_Kibble.png
 description: Used as a crafting ingredient and fuel for Harbringer Beetle resource production. Not as a taming food.
 category: Resource
 mod: Ark Eternal

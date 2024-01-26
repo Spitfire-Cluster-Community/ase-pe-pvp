@@ -1,7 +1,9 @@
 ---
 title: Obsidian
-image: obsidian.png
+image: https://ark.wiki.gg/images/thumb/2/23/Obsidian.png/228px-Obsidian.png
 category: Resource
 mod: Base
+references:
+  - url: https://ark.wiki.gg/wiki/Obsidian
 drops_from: Rock
 ---

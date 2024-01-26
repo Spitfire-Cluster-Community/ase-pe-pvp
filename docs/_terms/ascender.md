@@ -1,6 +1,5 @@
 ---
 title: Ascender
-image: ascender.png
 description: Offer up tributes to ascend
 category: Structure
 mod: Ark Eternal

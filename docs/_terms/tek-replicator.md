@@ -1,8 +1,10 @@
 ---
 title: Tek Replicator
-image: tek-replicator.png
+image: https://ark.wiki.gg/images/thumb/a/a2/Tek_Replicator.png/228px-Tek_Replicator.png
 category: Structure
 mod: Base
+references:
+  - url: https://ark.wiki.gg/wiki/Tek_Replicator
 recipes: 
   - structures: [Obelisk, Supply Crate, Loot Crate, Treasure Chest (Ragnarok)]
     ingredients: 

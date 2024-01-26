@@ -1,6 +1,5 @@
 ---
 title: Awesome Teleporter Remote
-image: awesome-teleporter-remote.png
 category: Tool
 mod: Awesome Teleporters!
 recipes:

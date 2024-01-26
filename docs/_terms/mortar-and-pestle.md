@@ -1,8 +1,10 @@
 ---
 title: Mortar and Pestle
-image: mortar-and-pestle.png
+image: https://ark.wiki.gg/images/thumb/f/f0/Mortar_And_Pestle.png/228px-Mortar_And_Pestle.png
 category: Structure
 mod: Base
+references:
+  - url: https://ark.wiki.gg/wiki/Mortar_and_Pestle
 recipes: 
   - structures: [Inventory]
     ingredients: 

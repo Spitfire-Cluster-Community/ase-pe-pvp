@@ -1,7 +1,9 @@
 ---
 title: Wood
-image: wood.png
+image: https://ark.wiki.gg/images/thumb/d/df/Wood.png/228px-Wood.png
 category: Resource
 mod: Base
-drops_from: Tree
+references:
+  - url: https://ark.wiki.gg/wiki/Wood
+drops_from: Trees
 ---

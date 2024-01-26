@@ -1,8 +1,10 @@
 ---
 title: Cementing Paste
-image: cementing-paste.png
+image: https://ark.wiki.gg/images/thumb/0/03/Cementing_Paste.png/228px-Cementing_Paste.png
 category: Resource
 mod: Base
+references:
+  - url: https://ark.wiki.gg/wiki/Cementing_Paste
 recipes:
   - structures: [Mortar and Pestle]
     ingredients: 
