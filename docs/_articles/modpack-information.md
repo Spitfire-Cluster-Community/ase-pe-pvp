@@ -15,15 +15,15 @@ jumbotron:
 
 The following popular mods are used on the server:
 
-- [Primal Fear](https://steamcommunity.com/sharedfiles/filedetails/?id=839162288) - [Primal Fear Wiki](https://ark.fandom.com/wiki/Mod:Primal_Fear)
+- [Primal Fear](https://steamcommunity.com/sharedfiles/filedetails/?id=839162288) - [Primal Fear Wiki](https://primalfear.wiki.gg/wiki/Primal_Fear)
   - [Primal Fear Aberration Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=1315573129)
   - [Primal Fear Boss Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=899987403)
   - [Primal Fear Extinction Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=1681125667)
   - [Primal Fear Genesis Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2200048898)
   - [Primal Fear Scorched Earth Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=902157012)
 - [Ark Eternal](https://steamcommunity.com/sharedfiles/filedetails/?id=893735676) - [Ark Eternal Wiki](https://ark.wiki.gg/wiki/Mod:Ark_Eternal)
-- [Dino Storage v2](https://steamcommunity.com/sharedfiles/filedetails/?id=1609138312) - [Dino Storage Wiki](https://ark.fandom.com/wiki/Mod:Dino_Storage)
-- [Structures Plus (S+)](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991) - [Structures Plus Wiki](https://ark.fandom.com/wiki/Mod:Structures_Plus)
+- [Dino Storage v2](https://steamcommunity.com/sharedfiles/filedetails/?id=1609138312) - [Dino Storage Wiki](https://ark.wiki.gg/wiki/Mod:Dino_Storage)
+- [Structures Plus (S+)](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991) - [Structures Plus Wiki](https://ark.wiki.gg/wiki/Mod:Structures_Plus)
 - [Automated Ark](https://steamcommunity.com/sharedfiles/filedetails/?id=812655342) (not in modpack, but appears ingame) - [Automated Ark Wiki](https://steamcommunity.com/workshop/filedetails/discussion/812655342/)
 - [ARKomatic](https://steamcommunity.com/sharedfiles/filedetails/?id=1231538641)
 - [Awesome SpyGlass!](https://steamcommunity.com/sharedfiles/filedetails/?id=1404697612)
