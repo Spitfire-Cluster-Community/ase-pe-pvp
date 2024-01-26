@@ -8,4 +8,6 @@ wiki_links:
   - title: ark.wiki.gg - Dino Blood
     url: https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Dino_Blood
 dropped_by: [Eternal Creatures]
+recipes:
+  - structures: [God Shrine]
 ---
