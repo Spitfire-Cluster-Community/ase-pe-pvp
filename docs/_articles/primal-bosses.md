@@ -44,7 +44,6 @@ jumbotron:
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Tip</p>
 <p>Use {% include term-link.html title="Upgrade Station" %} to salvage armor into {% include term-link.html title="Broken Pieces of Demonic Armor" %}, {% include term-link.html title="Broken Pieces of Celestial Armor" %} and {% include term-link.html title="Broken Pieces of Creator Armor" %}. Use {% include term-link.html title="Tek Crop Plot Tier 2" %} to duplicate the pieces.</p>
-<p><strike>{% include term-link.html title="Tek Crop Plot Tier 2" %} to duplicate the club and then use {% include term-link.html title="Upgrade Station" %} to salvage it into {% include term-link.html title="Unknown Substance" %}.</strike></p>
 <p>Use {% include term-link.html title="Upgrade Station" %} to salvage the club into {% include term-link.html title="Unknown Substance" %}. Use {% include term-link.html title="Blueprint Station" %} to make the club and substance into a BP.</p>
 </div>
 
