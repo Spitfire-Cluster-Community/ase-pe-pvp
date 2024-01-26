@@ -9,5 +9,5 @@ wiki_links:
     url: https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Dino_Blood
 dropped_by: [Eternal Creatures]
 recipes:
-  - structures: [God Shrine]
+  - structures: [Eternal God Shrine]
 ---
