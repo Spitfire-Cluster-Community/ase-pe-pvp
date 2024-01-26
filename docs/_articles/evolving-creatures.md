@@ -24,10 +24,8 @@ You should first see the [wiki.gg - Ark Eternal - Darkstar Creatures](https://ar
 
 ## Useful Structures
 
-- {% include term-link.html title="Eternal Boss Summoner" %}
-  - Used to summon bosses.
-- {% include term-link.html title="Eternal Resource Converter" %}
-  - Used to craft some materials needed for evolution.
+- {% include term-link.html title="Eternal Boss Summoner" %} - Used to summon bosses.
+- {% include term-link.html title="Eternal Resource Converter" %} - Used to craft some materials needed for evolution.
 
 ## Evolution Materials
 
@@ -38,15 +36,18 @@ You should first see the [wiki.gg - Ark Eternal - Darkstar Creatures](https://ar
 - {% include term-link.html title="Primordial Boss Essence" %}
 - {% include term-link.html title="Evolution Fuel" %}
 - {% include term-link.html title="Eternal Kibble" %}
-  - also see [youtube - How to get Eternal Kibble - Spitfire Cluster](https://www.youtube.com/watch?v=3iwI2IeBDCg)  
 - {% include term-link.html title="Eternal Alpha Kibble" %}
 - {% include term-link.html title="Summoning Reagent" %}
-- {% include term-link.html title="Primordial Essence of Bigfoot/Giga/Mammoth/Rhino/Wyvern" %}
+- {% include term-link.html title="Primordial Essence of Bigfoot" %}
+- {% include term-link.html title="Primordial Essence of Giga" %}
+- {% include term-link.html title="Primordial Essence of Mammoth" %}
+- {% include term-link.html title="Primordial Essence of Rhino" %}
+- {% include term-link.html title="Primordial Essence of Wyvern" %}
 - {% include term-link.html title="Dino Heart" %}
 - {% include term-link.html title="Dino DNA" %}
 - {% include term-link.html title="Mystery Element" %}
 - {% include term-link.html title="Eternal Dominus Token" %}
 
-## Links
+## Video Guide
 
-- [youtube - How To Get DarkStar - Primal Eternal 1000x Spitfire Cluster](https://www.youtube.com/watch?v=OzeiUEp0ViQ)
+{% include youtube.html id="OzeiUEp0ViQ" %}

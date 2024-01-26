@@ -38,6 +38,7 @@ jumbotron:
 
 ## Links
 
-- [fandom mod:Ark Eternal/Loot Item Sets](https://ark.fandom.com/wiki/Mod:Ark_Eternal/Loot_Item_Sets)
+- [ark.wiki.gg - Loot Set Eternal](https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Loot_Set_Eternal)
 - [youtube - How To Kill Bosses Early Game - Spitfire Primal Eternal 1000x](https://www.youtube.com/watch?v=F7e3yJi8Ma4)
-- [youtube - Mini Gun is OP for BOSSES!! - ARK Spitfire](https://www.youtube.com/watch?v=KNGG95Zla9g)  
+- [youtube - Mini Gun is OP for BOSSES!! - ARK Spitfire](https://www.youtube.com/watch?v=KNGG95Zla9g)
+  

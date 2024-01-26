@@ -10,6 +10,7 @@
             {%- endcapture -%}
             Craft in
             {{ structure_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
+            {%- if recipe.ingredients -%}
             with ingredients:
             <ul class="ps-5 mt-2 space-y-1 list-disc list-inside">
             {%- for ingredient in recipe.ingredients -%}
@@ -23,6 +24,7 @@
                     {{ item_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
                 </li>
             {%- endfor -%}
+            {%- endif -%}
             </ul>
         </li>
     </ul>

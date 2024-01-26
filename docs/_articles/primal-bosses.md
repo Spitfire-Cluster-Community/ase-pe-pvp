@@ -49,6 +49,6 @@ jumbotron:
 
 ## Links
 
-- [fandom - Mod:Primal Fear/Armor](https://ark.fandom.com/wiki/Mod:Primal_Fear/Armor)
+- [primalfear.wiki.gg - Armor](https://primalfear.wiki.gg/wiki/Armor)
 - [youtube - How to Get Origin Armor!](https://www.youtube.com/watch?v=BjIHss-7cec)
 - [youtube - How To Get Broken Pieces - Primal Eternal Spitfire Cluster](https://www.youtube.com/watch?v=Leya50kUc8Q)

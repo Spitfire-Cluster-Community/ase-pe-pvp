@@ -2,7 +2,7 @@
 
 ## Ark Item Images
 
-Mostly came from fandom.com
+Mostly came from wiki.gg
 
 ## Background Images 
 

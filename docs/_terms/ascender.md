@@ -4,11 +4,8 @@ image: ascender.png
 description: Offer up tributes to ascend
 category: Structure
 mod: Ark Eternal
-wiki_links:
-  - title: ark.wiki.gg - Eternal Work Bench
-    url: https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Eternal_Work_Bench
-  - title: "/ark.fandom.com - Mod:Ark Eternal/Eternal Work Bench"
-    url: https://ark.fandom.com/wiki/Mod:Ark_Eternal/Eternal_Work_Bench
+references:
+  - url: https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Eternal_Work_Bench
 recipes:
   - structures: [Eternal Workbench]
     ingredients:
