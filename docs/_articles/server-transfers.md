@@ -13,7 +13,7 @@ jumbotron:
 
 SpitfireCluster is a multi-server Ark environment.  This means your character can move freely between servers.
 
-To learn how to transfer between servers see [fandom - CrossARK Transfers](https://ark.fandom.com/wiki/CrossARK_Transfers).
+To learn how to transfer between servers see [ark.wiki.gg - CrossARK Transfers](https://ark.wiki.gg/wiki/CrossARK_Transfers) or [ark.fandom.com - CrossARK Transfers](https://ark.fandom.com/wiki/CrossARK_Transfers).
 
 In addition to the methods described above, you can also transfer between servers using an {% include term-link.html title="Awesome Teleporter" %}.
 
