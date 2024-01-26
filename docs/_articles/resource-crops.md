@@ -26,21 +26,14 @@ You can make the Spitfire Essence seeds in the {% include term-link.html title="
 
 ### Structures
 
-- {% include term-link.html title="Spitfire Crop Bench" %}
-  - used to craft crop plots and resource seeds
-- {% include term-link.html title="Spitfire Crop Plot Tier 1" %}
-  - uses fertalizer and water grows seeds into resources
-- {% include term-link.html title="Spitfire Crop Plot Tier 2" %}
-  - uses fertalizer and water grows seeds into resources
-- {% include term-link.html title="Spitfire Crop Plot Tier 3" %}
-  - uses fertalizer and water grows seeds into resources
-- {% include term-link.html title="Spitfire Crop Plot Tier 4" %}
-  - uses fertalizer and water grows seeds into resources
-- {% include term-link.html title="Spitfire Tek Crop Plot Tier 1" %}
-  - powerless, fertless and waterless crop growth with faster crop growth - available at [Shop Menu](../shop-menu)
-- {% include term-link.html title="Spitfire Tek Crop Plot Tier 2" %}
-  - duplicates most items (some items are blacklisted) - available at [Shop Menu](../shop-menu)
+- {% include term-link.html title="Spitfire Crop Bench" %} - used to craft crop plots and resource seeds
+- {% include term-link.html title="Spitfire Crop Plot Tier 1" %} - uses fertalizer and water grows seeds into resources
+- {% include term-link.html title="Spitfire Crop Plot Tier 2" %} - uses fertalizer and water grows seeds into resources
+- {% include term-link.html title="Spitfire Crop Plot Tier 3" %} - uses fertalizer and water grows seeds into resources
+- {% include term-link.html title="Spitfire Crop Plot Tier 4" %} - uses fertalizer and water grows seeds into resources
+- {% include term-link.html title="Spitfire Tek Crop Plot Tier 1" %} - powerless, fertless and waterless crop growth with faster crop growth - available at [Shop Menu](../shop-menu)
+- {% include term-link.html title="Spitfire Tek Crop Plot Tier 2" %} - duplicates most items (some items are blacklisted) - available at [Shop Menu](../shop-menu)
 
-## Links
+## Video Guide
 
-- [youtube - Seed Mod Tutorial Spitfire Cluster](https://www.youtube.com/watch?v=FCZ7NuCcvqE)
+{% include youtube.html id="FCZ7NuCcvqE" %}

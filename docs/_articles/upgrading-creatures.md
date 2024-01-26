@@ -26,7 +26,7 @@ If you want to take the effort you can cross-breed and merge all the stats into 
 
 ## Useful Items
 
-- {% include term-link.html title="Soul Traps" %} and {% include term-link.html title="Soul Gun" %} - Trap tames to store in inventories.
+- {% include term-link.html title="Soul Trap" %} and {% include term-link.html title="Soul Gun" %} - Trap tames to store in inventories.
 - {% include term-link.html title="Soul Terminal" %} - Auto collects new-born creatures - needs to be enabled in the terminal options.
 
 ## Breeding Potions
