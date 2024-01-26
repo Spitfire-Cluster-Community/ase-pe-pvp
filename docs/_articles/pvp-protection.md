@@ -38,7 +38,8 @@ jumbotron:
 
 - {% include term-link.html title="Camo Projector" %}
   - Projects a mesh that looks like a rock. Place it, hold E > Open Menu > Set: X/Y/X=0 and Size X/Y/Z=1 - then configure to suit.
-  - Also see [youtube - How to setup the Spitfire Camo Projector - Spitfire Cluster](https://www.youtube.com/watch?v=_ZFBm5mqcb0)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_ZFBm5mqcb0?si=ci2_b6--YVe2hweL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class="markdown-alert markdown-alert-caution">
 <p class="markdown-alert-title">Caution</p>
