@@ -42,7 +42,9 @@ The following provides a guide to some essential and useful items.
   - Allows retrieval of items from your corpse.
 - {% include term-link.html title="Awesome Teleporter" %} and {% include term-link.html title="Awesome Teleporter Remote" %}
   - Allows you to teleport around the map and corpse recovery.
-
+- {% include term-link.html title="Loadout Mannequin" %} (limit=1)
+  - Quickly swap gear and inventory.
+  
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Tip</p>
 <p>Place {% include term-link.html title="Eternal Corpse Recovery" %} on a {% include term-link.html title="S+ Thatch Foundation" %} so that it decays.  This will allow you to place another if you forget the original location.</p>
