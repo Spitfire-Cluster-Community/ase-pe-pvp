@@ -14,6 +14,7 @@ jumbotron:
 | Turret | Base Damage | Range |
 | --- | --- | --- |
 | {% include term-link.html title="SpitFire Turret Tier 1" %} | 1M | 3000,8000,10000 |
+| {% include term-link.html title="SpitFire Turret Tier 1 Armor Piercing" %} | 1M | 3000,8000,10000 |
 | {% include term-link.html title="SpitFire Turret Tier 2" %} | 5M | 3000,8000,10000 |
 | {% include term-link.html title="SpitFire Turret Tier 2 Armor Piercing" %} | 5M | 3000,8000,10000 |
 | {% include term-link.html title="SpitFire Turret Tier 2 Arcane" %} | 5M | 3000,8000,10000 |
