@@ -27,22 +27,8 @@ jumbotron:
 
 ## Offline Raid Protection
 
-- {% include term-link.html title="MAGA ORP" %}
-  - Provides offline raid protection within it's range.
-  - Kicks in after 1 hour, or 2 hours if in recent PvP combat.
-  - Boosted Turret Damage when ORP is active.
-  - Boosted Structure Health when ORP is active.
-  - Maximum of 5 days of ORP protection.
+See {% include term-link.html title="MAGA ORP" %}
 
-## Fake Rocks
+## Hide Under a Rock
 
-- {% include term-link.html title="Camo Projector" %}
-  - Projects a mesh that looks like a rock. Place it, hold E > Open Menu > Set: X/Y/X=0 and Size X/Y/Z=1 - then configure to suit.
-
-{% include youtube.html id="_ZFBm5mqcb0" %}
-
-<div class="markdown-alert markdown-alert-caution">
-<p class="markdown-alert-title">Caution</p>
-<p>The {% include term-link.html title="Camo Projector" %} mesh will disappear at a range where the other structures in your base are still visible. Try to build it in an area that can't easily be viewed from afar.</p>
-</div>
-
+See {% include term-link.html title="Camo Projector" %}
