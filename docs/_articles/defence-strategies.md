@@ -76,8 +76,5 @@ jumbotron:
 ### Season 35
 {% include youtube.html id="62KzscWwIMA" %}
 
-### Raiding on Spitfire
-{% include youtube.html id="3A4hgHwYrp0" %}
-
 ### Season 45
 {% include youtube.html id="247RtYzLoIU" %}
