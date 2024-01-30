@@ -1,5 +1,6 @@
 ---
 title: Spitfire Tek Crop Plot Tier 1
+description: Powerless, fertless and waterless crop growth with faster crop growth.
 category: Structure
 mod: Resource Crops
 recipes:
