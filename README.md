@@ -2,12 +2,6 @@
 
 Visit the [SpitfireCluster - ASE PE 1000x PvP - Handbook](https://spitfire-cluster-community.github.io/ase-pe-pvp/)!
 
-## Todo
-
-- term pages
-- glossary page (searchable, etc)
-- change term link to allow any collection (collection link)
-
 ## Contributing
 
 As a collaborative, unofficial community effort, this handbook invites you to contribute, share insights, 
