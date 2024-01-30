@@ -1,5 +1,6 @@
 ---
 title: Spitfire Crop Plot Tier 1
+description: Uses fertalizer and water grows seeds into resources.
 category: Structure
 mod: Resource Crops
 recipes:
@@ -14,3 +15,4 @@ recipes:
       - names: [Wood]
         quantity: 80
 ---
+
