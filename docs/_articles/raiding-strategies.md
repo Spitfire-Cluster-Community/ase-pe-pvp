@@ -75,3 +75,7 @@ A basic strategy is to use fast creatures like Novas to create meat walls to blo
 - {% include term-link.html title="Jamming Cruise Missle" %} - test this
 - {% include term-link.html title="EMP" %} - test this
 
+## Video Guides
+
+### Raiding on Spitfire
+{% include youtube.html id="3A4hgHwYrp0" %}
