@@ -9,7 +9,7 @@ jumbotron:
     position: center top
 ---
 
-## Resource Farming
+## Resource Duplication
 
 At SpitfireCluster resources can be grown, and even duplicated!
 
