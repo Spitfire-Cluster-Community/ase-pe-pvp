@@ -9,17 +9,37 @@ jumbotron:
     position: center top
 ---
 
-## Structures
+## Resource Crop Bosses
 
-- {% include term-link.html title="Spitfire Crop Bench" %}
-  - Crafts Spitfire Crop boss summoners.
-- {% include term-link.html title="Spitfire Armory" %}
-  - Crafts Spitfire Armory boss summoners.
+Used to craft Crop Plots - see [Resource Crops](../resource-crops).
 
-## Item Drops
+Craft the summoners in the {% include term-link.html title="Spitfire Crop Bench" %}.
 
-- {% include term-link.html title="Spitfire Essence Tier 1" %}, {% include term-link.html title="Spitfire Essence Tier 2" %}, {% include term-link.html title="Spitfire Essence Tier 3" %} and {% include term-link.html title="Spitfire Essence Tier 4" %}
-  - Used to craft Crop Plots - see [Resource Crops](../resource-crops)
+- {% include term-link.html title="Gibbo Boss" %}
+- {% include term-link.html title="Snappy Long Snout Boss" %}
+- {% include term-link.html title="Tek Boss" %}
+- {% include term-link.html title="Water Boss" %}
+
+### Item Drops
+
+- {% include term-link.html title="Spitfire Essence Tier 1" %}
+- {% include term-link.html title="Spitfire Essence Tier 2" %}
+- {% include term-link.html title="Spitfire Essence Tier 3" %}
+- {% include term-link.html title="Spitfire Essence Tier 4" %}
+
+todo check these and move to dropped_by in the terms
+
+
+## Armory Bosses
+
+Craft the summoners in the {% include term-link.html title="Spitfire Armory" %}.
+
+- {% include term-link.html title="Boss The Pacifier" %}
+- {% include term-link.html title="Boss Laser Griffin" %}
+- {% include term-link.html title="Boss Eternal Predator" %}
+
+### Item Drops
+
 - {% include term-link.html title="Spitfire Vacuum Compartment" %} ( and Compartment BP, Compartment Slope BP, Moonpool BP, Door BP, Vacuum Sealant )
   - Ultra strong structure.
   - Can be placed floating.
