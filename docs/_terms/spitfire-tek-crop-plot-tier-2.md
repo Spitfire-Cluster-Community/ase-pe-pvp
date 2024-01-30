@@ -1,5 +1,6 @@
 ---
 title: Spitfire Tek Crop Plot Tier 2
+description: Duplicates most resources and items.
 category: Structure
 mod: Resource Crops
 recipes:
