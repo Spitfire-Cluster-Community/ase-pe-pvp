@@ -40,8 +40,27 @@ Craft the summoners in the {% include term-link.html title="Spitfire Armory" %}.
 
 ### Item Drops
 
-- {% include term-link.html title="Spitfire Vacuum Compartment" %} ( and Compartment BP, Compartment Slope BP, Moonpool BP, Door BP, Vacuum Sealant )
-  - Ultra strong structure.
-  - Can be placed floating.
-- {% include term-link.html title="Ammo Immunity Potion" %} ( AP, Arcane, Electric, Explosive, Fire, Ice, Tranq )
-  - Provides immunity from ammo types.
+#### Spitfire Vacuum Blueprints
+
+- {% include term-link.html title="Spitfire Vacuum Compartment" %}
+- {% include term-link.html title="Spitfire Vacuum Compartment Slope" %}
+- {% include term-link.html title="Spitfire Vacuum Moonpool" %}
+- {% include term-link.html title="Spitfire Vacuum Door" %}
+- {% include term-link.html title="Spitfire Vacuum Sealant" %}
+
+<div class="markdown-alert markdown-alert-note">
+<p class="markdown-alert-title">Note</p>
+<p>The Spitfire Vacuum is an ultra strong structure which does not need foundations and can be placed floating.</p>
+</div>
+
+#### Consumables
+
+- {% include term-link.html title="AP Immunity Potion" %}
+- {% include term-link.html title="Arcane Immunity Potion" %}
+- {% include term-link.html title="Electric Immunity Potion" %}
+- {% include term-link.html title="Explosive Immunity Potion" %}
+- {% include term-link.html title="Fire Immunity Potion" %}
+- {% include term-link.html title="Ice Immunity Potion" %}
+- {% include term-link.html title="Tranq Immunity Potion" %}
+- {% include term-link.html title="Flews Special Cheddar" %}
+
