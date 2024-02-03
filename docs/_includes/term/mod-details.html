@@ -5,7 +5,7 @@
         {%- for term in terms -%}
             {%- if term.mod == page.mod and term.category != "Mod" -%}
                 <li>
-                    {% include link.html collection="glossary" title=term.title url=term.url image=term.image %}
+                    {% include link.html collection="glossary" title=term.title %}
                 </li>
             {%- endif -%}
         {%- endfor -%}
@@ -22,8 +22,7 @@
 
     {%- if page.mod -%}
         <h2>Mod</h2>
-        {% assign mod = page.mod | append: " Mod" %}
-        {% include link.html collection="glossary" title=mod %}
+        {% include link.html collection="glossary" title=page.mod %}
     {%- endif -%}
 
 {%- endif -%}

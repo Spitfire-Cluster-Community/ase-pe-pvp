@@ -7,7 +7,7 @@
                 {%- for structure in recipe.structures -%}
                     {%- if structure == include.structure -%}
                         <li>
-                            {% include link.html collection="glossary" title=term.title url=term.url image=term.image %}
+                            {% include link.html collection="glossary" title=term.title %}
                         </li>
                     {%- endif -%}
                 {%- endfor -%}
@@ -16,7 +16,7 @@
                 {%- for structure in blueprint.structures -%}
                     {%- if structure == include.structure -%}
                         <li>
-                            {% include link.html collection="glossary" title=term.title url=term.url image=term.image %}
+                            {% include link.html collection="glossary" title=term.title %}
                         </li>
                     {%- endif -%}
                 {%- endfor -%}

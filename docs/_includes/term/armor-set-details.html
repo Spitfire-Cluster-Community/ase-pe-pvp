@@ -5,7 +5,7 @@
         {%- for term in terms -%}
             {%- if term.armor_set == include.armor_set and term.category != "Armor Set" -%}
                 <li>
-                    {% include link.html collection="glossary" url=term.url title=term.title image=term.image %}
+                    {% include link.html collection="glossary" title=term.title %}
                 </li>
             {%- endif -%}
         {%- endfor -%}
