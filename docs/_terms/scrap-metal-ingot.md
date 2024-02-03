@@ -6,7 +6,7 @@ mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Scrap_Metal_Ingot
 recipes: 
-  - structures: [Forge,S+ Tek Forge]
+  - structures: [Refining Forge, S+ Refining Forge, S+ Tek Forge]
     ingredients: 
       - names: [Scrap Metal]
         quantity: 1

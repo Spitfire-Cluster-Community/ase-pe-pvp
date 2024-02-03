@@ -1,32 +1,32 @@
 {%- if include.blueprints -%}
-    <h2 class="mb-2 text-lg font-semibold text-gray-900 dark:text-white">Blueprints</h2>
+    <h2>Blueprints</h2>
     {%- for blueprint in include.blueprints -%}
-    <ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
-        <li>
-            {%- capture structure_links -%}
-            {%- for structure in blueprint.structures -%}
-            {%- include link.html collection="glossary" title=structure -%},
-            {%- endfor -%}
-            {%- endcapture -%}
-            Craft in
-            {{ structure_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
-            {%- if blueprint.ingredients -%}
-            &nbsp;with ingredients:
-            <ul class="ps-5 mt-2 space-y-1 list-disc list-inside">
-            {%- for ingredient in blueprint.ingredients -%}
-                <li>
-                    {{ ingredient.quantity }}x&nbsp;
-                    {%- capture item_links -%}
-                    {%- for ingredient_name in ingredient.names -%}
-                    {%- include link.html collection="glossary" title=ingredient_name -%},
+        <ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
+            <li>
+                {%- capture structure_links -%}
+                    {%- for structure in blueprint.structures -%}
+                        {%- include link.html collection="glossary" title=structure -%},
                     {%- endfor -%}
-                    {%- endcapture -%}
-                    {{ item_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
-                </li>
-            {%- endfor -%}
-            {%- endif -%}
-            </ul>
-        </li>
-    </ul>
+                {%- endcapture -%}
+                Craft in
+                {{ structure_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
+                {%- if blueprint.ingredients -%}
+                &nbsp;with ingredients:
+                <ul class="ps-5 mt-2 space-y-1 list-disc list-inside">
+                    {%- for ingredient in blueprint.ingredients -%}
+                        <li>
+                            {{ ingredient.quantity }}x&nbsp;
+                            {%- capture item_links -%}
+                                {%- for ingredient_name in ingredient.names -%}
+                                    {%- include link.html collection="glossary" title=ingredient_name -%},
+                                {%- endfor -%}
+                            {%- endcapture -%}
+                            {{ item_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
+                        </li>
+                    {%- endfor -%}
+                    {%- endif -%}
+                </ul>
+            </li>
+        </ul>
     {%- endfor -%}
 {%- endif -%}

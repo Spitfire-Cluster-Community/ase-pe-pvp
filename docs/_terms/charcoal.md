@@ -6,6 +6,7 @@ mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Charcoal
 recipes:
+  - structures: [Eternal God Shrine]
   - structures: [Campfire, Cooking Pot, Refining Forge, Industrial Forge, S+ Tek Forge]
     ingredients: 
       - names: [Wood, Fungal Wood]

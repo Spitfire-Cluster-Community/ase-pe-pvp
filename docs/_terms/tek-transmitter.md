@@ -20,4 +20,3 @@ recipes:
         quantity: 320        
 ---
 
-Also available in an S+ variant.

@@ -5,4 +5,6 @@ category: Resource
 mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Polymer
+recipes:
+  - structures: [Eternal God Shrine]
 ---

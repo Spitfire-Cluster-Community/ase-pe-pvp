@@ -6,6 +6,7 @@ mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Cementing_Paste
 recipes:
+  - structures: [Eternal God Shrine]
   - structures: [Mortar and Pestle]
     ingredients: 
       - names: [Chitin, Keratin]

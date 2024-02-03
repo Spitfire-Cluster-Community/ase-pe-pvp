@@ -5,8 +5,8 @@ category: Resource
 mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Electronics
-drops_from: [Tek Creatures]
 recipes:
+  - structures: [Eternal God Shrine]
   - structures: [Fabricator, Tek Replicator]
     ingredients: 
       - names: [Silica Pearls, Silicate]

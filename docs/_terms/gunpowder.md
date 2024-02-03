@@ -6,6 +6,7 @@ mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Gunpowder
 recipes:
+  - structures: [Eternal God Shrine]
   - structures: [Mortar and Pestle]
     ingredients: 
       - names: [Sparkpowder]

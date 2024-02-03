@@ -5,7 +5,7 @@ mod: Spitfire Armory
 recipes:
   - structures: [Spitfire Armory]
     ingredients:
-      - names: [Celestial Blade]
+      - names: [Celestial Sword]
         quantity: 1
       - names: [Celestial Boots]
         quantity: 1

@@ -6,7 +6,7 @@ mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Tek_Replicator
 recipes: 
-  - structures: [Obelisk, Supply Crate, Loot Crate, Treasure Chest (Ragnarok)]
+  - structures: [Obelisk, Supply Crate, Loot Crate, Treasure Chest]
     ingredients: 
       - names: [Element]
         quantity: 100
@@ -20,4 +20,3 @@ recipes:
         quantity: 800        
 ---
 
-Also available in an S+ variant.

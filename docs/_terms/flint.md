@@ -5,4 +5,6 @@ category: Resource
 mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Flint
+recipes:
+  - structures: [Eternal God Shrine]
 ---

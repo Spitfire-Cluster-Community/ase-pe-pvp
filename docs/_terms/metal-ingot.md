@@ -5,8 +5,9 @@ category: Resource
 mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Metal_Ingot
-recipes: 
-  - structures: [Forge,S+ Tek Forge]
+recipes:
+  - structures: [Eternal God Shrine]
+  - structures: [Refining Forge, S+ Refining Forge, S+ Tek Forge]
     ingredients: 
       - names: [Metal]
         quantity: 1
