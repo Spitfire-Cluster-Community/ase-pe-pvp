@@ -9,12 +9,11 @@ jumbotron:
     position: center top
 ---
 
-## Structures
-
-- {% include term-link.html title="Primal Smithy" %}
-  - Crafts Primal summoners.
-
 ## Bosses
+
+Craft Primal summoners in a {% include term-link.html title="Primal Smithy" %}.
+
+### Origins
 
 - {% include term-link.html title="Origin Spino" %}
 - {% include term-link.html title="Origin Rex" %}
@@ -24,12 +23,31 @@ jumbotron:
 - {% include term-link.html title="Origin Bear" %}
 - {% include term-link.html title="Origin Kairuku" %}
 - {% include term-link.html title="Origin Argentavis" %}
+
+### Colossus
+
 - {% include term-link.html title="Ice Colossus" %}
 - {% include term-link.html title="Fire Colossus" %}
 - {% include term-link.html title="Electric Colossus" %}
 - {% include term-link.html title="Caustic Colossus" %}
+
+### Emperor and Empress
+
 - {% include term-link.html title="Celestial Indominus Emperor" %}
+- {% include term-link.html title="Demonic Reaper Empress" %}
+
+### Guardians
+
+- {% include term-link.html title="Chaos Guardian" %}
+- {% include term-link.html title="Spirit Guardian" %}
+
+### Creator and Destroyer
+
+- {% include term-link.html title="Nova the Destroyer" %}
 - {% include term-link.html title="Pikkon the Creator" %}
+
+### Pikkon's Revenge
+
 - {% include term-link.html title="Pikkon's Revenge" %}
 
 
@@ -49,6 +67,7 @@ jumbotron:
 
 ## Links
 
+- [primalfear.wiki.gg - Bosses](https://primalfear.wiki.gg/wiki/Bosses)
 - [primalfear.wiki.gg - Armor](https://primalfear.wiki.gg/wiki/Armor)
 - [youtube - How to Get Origin Armor!](https://www.youtube.com/watch?v=BjIHss-7cec)
 - [youtube - How To Get Broken Pieces - Primal Eternal Spitfire Cluster](https://www.youtube.com/watch?v=Leya50kUc8Q)
