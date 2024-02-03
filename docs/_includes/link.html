@@ -2,9 +2,14 @@
     {%- assign url = include.url -%}
 {%- else -%}
     {%- if include.collection -%}
-        {%- assign url = include.title | slugify  | prepend: "/" | prepend: include.collection  | prepend: "/" -%}
+        {%- assign url = include.title | slugify | prepend: "/" | prepend: include.collection | prepend: "/" -%}
     {%- else -%}
         {%- assign url = include.title | slugify | prepend: "/" -%}
     {%- endif -%}
 {%- endif -%}
-<a class="font-medium text-red-600 dark:text-blue-500 hover:underline" href="{{ url | prepend: site.baseurl }}">{{ include.title }}</a>
+{%- if include.image -%}
+    {%- capture image -%}
+        <img src="{{ include.image }}" alt="{{ include.title }} Image" class="inline w-5 h-5 mr-1">
+    {%- endcapture -%}
+{%- endif -%}
+<a href="{{ url | prepend: site.baseurl }}">{% if image %}{{ image }}{% endif %}{{ include.title }}</a>

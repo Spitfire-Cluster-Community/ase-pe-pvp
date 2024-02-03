@@ -1,6 +1,5 @@
 ---
 title: Spitfire Spear
-image: -missing.png
 category: Weapon
 mod: Spitfire Armory
 recipes:

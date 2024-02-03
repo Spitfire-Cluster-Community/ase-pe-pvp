@@ -5,17 +5,22 @@
         {%- for term in terms -%}
             {%- if term.armor_set == include.armor_set and term.category != "Armor Set" -%}
                 <li>
-                    <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="{{ term.url | prepend: site.baseurl }}">{{ term.title }}</a>
+                    {% include link.html collection="glossary" url=term.url title=term.title image=term.image %}
                 </li>
             {%- endif -%}
         {%- endfor -%}
     {%- endcapture -%}
 
     {%- if output != "" -%}
-        <h2 class="mb-2 text-lg font-semibold text-gray-900 dark:text-white">Armor</h2>
-        <ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
+        <h2 class="mb-2 text-lg font-semibold text-gray-900 dark:text-white">Armor Set</h2>
+        <ul class="max-w-md space-y-1 text-gray-500 no-list list-inside dark:text-gray-400">
             {{ output }}
         </ul>
     {%- endif -%}
+{%- endif -%}
 
+{%- if page.category == "Armor" and page.armor_set -%}
+    <h2 class="mb-2 text-lg font-semibold text-gray-900 dark:text-white">Armor Set</h2>
+    {% assign armor_set = page.armor_set | append: " Armor" %}
+    {% include link.html collection="glossary" title=armor_set %}
 {%- endif -%}

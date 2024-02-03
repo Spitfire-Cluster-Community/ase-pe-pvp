@@ -1,6 +1,6 @@
 ---
 title: Soul Gun
-image: https://ark.wiki.gg/wiki/File:Mod_Dino_Storage_Soul_Gun.png
+image: https://ark.wiki.gg/images/7/74/Mod_Dino_Storage_Soul_Gun.png
 description: Shoot a tamed dino to trap its soul.
 category: Tool
 mod: Dino Storage

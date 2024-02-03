@@ -67,10 +67,10 @@ The following provides a guide to some essential and useful items.
 
 ### Armor
 
-The following armor sets are unbreakable:
+The following armor is unbreakable:
 
-- {% include link.html collection="glossary" title="Eternal Desert Cloth Armor Set" %}
-- {% include link.html collection="glossary" title="Eternal Ghillie Armor Set" %}
+- {% include link.html collection="glossary" title="Eternal Desert Cloth Armor" %}
+- {% include link.html collection="glossary" title="Eternal Ghillie Armor" %}
 
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Tip</p>

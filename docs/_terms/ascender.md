@@ -12,8 +12,6 @@ recipes:
         quantity: 10
 ---
 
-## How To Use the Ascender
-
 Craft and consume all the items to unlock upto level 560.
 
 <div class="markdown-alert markdown-alert-note">

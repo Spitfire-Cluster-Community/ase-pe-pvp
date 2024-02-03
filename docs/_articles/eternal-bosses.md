@@ -21,13 +21,6 @@ jumbotron:
 - {% include link.html collection="glossary" title="God Shrine (Boss Items)" %}
   - Automatically generates artifacts and trophies.
 
-## Armor Drops
-
-- {% include link.html collection="glossary" title="Eternal Armor Set" %}
-  - Do not make into bp or you cannot craft it.
-- {% include link.html collection="glossary" title="Eternal Tek Armor Set" %}
-- {% include link.html collection="glossary" title="Eternal Tek (advanced) Armor Set" %}
-
 ## Creature Drops
 
 - {% include link.html collection="glossary" title="Terra Nova" %} kill the terra nova boss from the summoner, a tamable one has a chance to drop.

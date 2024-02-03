@@ -13,3 +13,8 @@ blueprints:
       - names: [Unknown Substance]
         quantity: 5
 ---
+
+<div class="markdown-alert markdown-alert-tip">
+<p class="markdown-alert-title">Tip</p>
+<p>Use {% include link.html collection="glossary" title="Upgrade Station" %} to salvage the club into {% include link.html collection="glossary" title="Unknown Substance" %}. Use {% include link.html collection="glossary" title="Blueprint Station" %} to make the club and substance into a BP.</p>
+</div>

@@ -18,13 +18,11 @@ recipes:
         quantity: 800
 ---
 
-## How to Use
-
 Place it, hold E > Open Menu > Set: X/Y/X=0 and Size X/Y/Z=1 - then configure to suit.
 
 <div class="markdown-alert markdown-alert-caution">
 <p class="markdown-alert-title">Caution</p>
-<p>The {% include link.html collection="glossary" title="Camo Projector" %} mesh will disappear at a range where the other structures in your base are still visible. Try to build it in an area that can't easily be viewed from afar.</p>
+<p>The mesh will disappear at a range where the other structures in your base are still visible. Try to build it in an area that can't easily be viewed from afar.</p>
 </div>
 
 ## Video Guide
