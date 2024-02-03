@@ -1,7 +1,6 @@
 ---
 title: TODO
 category: Structure
-mod: Base
 ---
 
 This is not a real term.

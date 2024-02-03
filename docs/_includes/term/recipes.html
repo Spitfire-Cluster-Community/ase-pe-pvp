@@ -14,7 +14,7 @@
                     BUG ? {{ recipe | jsonify }}
                 {%- endif -%}
                 Craft in
-                {{ structure_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
+                {{ structure_links | remove_last: "," | split: "," | array_to_sentence_string: "or" }}
                 {%- if recipe.ingredients -%}
                 &nbsp;with ingredients:
                 <ul>
@@ -26,7 +26,7 @@
                                     {%- include link.html collection="glossary" title=ingredient_name -%},
                                 {%- endfor -%}
                             {%- endcapture -%}
-                            {{ item_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
+                            {{ item_links | remove_last: "," | split: "," | array_to_sentence_string: "or" }}
                             x{{ ingredient.quantity }}
                         </li>
                     {%- endfor -%}
