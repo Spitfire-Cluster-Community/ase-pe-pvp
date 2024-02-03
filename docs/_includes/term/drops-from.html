@@ -1,8 +1,8 @@
 {% if include.drops_from %}
-<h2>Drops From</h2>
-<ul>
-    {%- for creature_name in include.drops_from -%}
-    <li>{%- include link.html collection="glossary" title=creature_name -%}</li>
-    {%- endfor -%}
-</ul>
+    <h2>Drops From</h2>
+    <ul>
+        {%- for creature_name in include.drops_from -%}
+            <li>{%- include link.html collection="glossary" title=creature_name -%}</li>
+        {%- endfor -%}
+    </ul>
 {% endif %}

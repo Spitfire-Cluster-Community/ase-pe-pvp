@@ -1,5 +1,8 @@
+{%- assign url = "" -%}
+{%- assign image = "" -%}
+
 {%- if include.collection == "glossary" -%}
-    {%- assign term = site.terms | where_exp: "term", "term.title == include.title" | first -%}
+    {%- assign term = site.terms | where: "title", include.title | first -%}
     {%- if term -%}
         {%- assign url = term.url -%}
         {%- assign image = term.image -%}
@@ -10,7 +13,7 @@
     {%- assign url = include.title | slugify | prepend: "/" -%}
 {%- endif -%}
 
-{%- if image -%}
+{%- if image and image != "" -%}
     {%- capture image -%}
         <img src="{{ image }}" alt="{{ include.title }} Image" class="inline w-5 h-5 mr-1">
     {%- endcapture -%}

@@ -1,9 +1,9 @@
 {%- if page.category == "Armor Set" -%}
 
     {%- capture output -%}
-        {%- assign terms = site.terms | sort: title -%}
+        {%- assign terms = site.terms | where: "armor_set", include.armor_set | sort: title -%}
         {%- for term in terms -%}
-            {%- if term.armor_set == include.armor_set and term.category != "Armor Set" -%}
+            {%- if term.category != "Armor Set" -%}
                 <li>
                     {% include link.html collection="glossary" title=term.title %}
                 </li>
@@ -13,7 +13,7 @@
 
     {%- if output != "" -%}
         <h2>Armor Set</h2>
-        <ul>
+        <ul class="no-list">
             {{ output }}
         </ul>
     {%- endif -%}

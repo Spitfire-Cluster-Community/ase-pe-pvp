@@ -1,9 +1,9 @@
 {%- if page.category == "Mod" -%}
 
     {%- capture output -%}
-        {%- assign terms = site.terms | sort: title -%}
+        {%- assign terms = site.terms | where: "mod", page.mod | sort: title -%}
         {%- for term in terms -%}
-            {%- if term.mod == page.mod and term.category != "Mod" -%}
+            {%- if term.category != "Mod" -%}
                 <li>
                     {% include link.html collection="glossary" title=term.title %}
                 </li>

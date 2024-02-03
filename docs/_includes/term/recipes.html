@@ -3,11 +3,16 @@
     {%- for recipe in include.recipes -%}
         <ul>
             <li>
+                {%- if recipe.structures -%}
                 {%- capture structure_links -%}
-                    {%- for structure in recipe.structures -%}
+                    {%- assign structures = recipe.structures | sort -%}
+                    {%- for structure in structures -%}
                         {%- include link.html collection="glossary" title=structure -%},
                     {%- endfor -%}
                 {%- endcapture -%}
+                {%- else -%}
+                    BUG ? {{ recipe | jsonify }}
+                {%- endif -%}
                 Craft in
                 {{ structure_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
                 {%- if recipe.ingredients -%}
@@ -15,13 +20,14 @@
                 <ul>
                     {%- for ingredient in recipe.ingredients -%}
                         <li>
-                            {{ ingredient.quantity }}x&nbsp;
                             {%- capture item_links -%}
-                                {%- for ingredient_name in ingredient.names -%}
+                                {%- assign ingredient_names = ingredient.names | sort -%}
+                                {%- for ingredient_name in ingredient_names -%}
                                     {%- include link.html collection="glossary" title=ingredient_name -%},
                                 {%- endfor -%}
                             {%- endcapture -%}
                             {{ item_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
+                            x{{ ingredient.quantity }}
                         </li>
                     {%- endfor -%}
                     {%- endif -%}

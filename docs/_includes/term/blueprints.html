@@ -1,7 +1,7 @@
 {%- if include.blueprints -%}
     <h2>Blueprints</h2>
     {%- for blueprint in include.blueprints -%}
-        <ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
+        <ul>
             <li>
                 {%- capture structure_links -%}
                     {%- for structure in blueprint.structures -%}
@@ -12,7 +12,7 @@
                 {{ structure_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
                 {%- if blueprint.ingredients -%}
                 &nbsp;with ingredients:
-                <ul class="ps-5 mt-2 space-y-1 list-disc list-inside">
+                <ul>
                     {%- for ingredient in blueprint.ingredients -%}
                         <li>
                             {{ ingredient.quantity }}x&nbsp;
