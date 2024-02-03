@@ -1,5 +1,5 @@
 ---
-title: Base
+title: Base (mod)
 category: Mod
 mod: Base
 references:

@@ -1,5 +1,5 @@
 ---
-title: Dino Storage
+title: Dino Storage (mod)
 image: https://ark.wiki.gg/images/thumb/1/18/Mod_Dino_Storage_v2.png/340px-Mod_Dino_Storage_v2.png
 category: Mod
 mod: Dino Storage

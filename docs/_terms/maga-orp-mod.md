@@ -1,5 +1,5 @@
 ---
-title: MAGA ORP
+title: MAGA ORP (mod)
 category: Mod
 mod: MAGA ORP
 references:

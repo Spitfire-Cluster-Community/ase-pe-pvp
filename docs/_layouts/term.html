@@ -4,13 +4,14 @@ layout: page
 
 {% assign trim_content = content | strip %}
 {% if trim_content != "" %}
-    <h2>Description</h2>
+    <h2>Details</h2>
     {{ content }}
 {% endif %}
 
-{% include term/mod-details.html armor_set=page.armor_set %}
+{% include term/mod-details.html mod=page.mod category=page.category %}
+{% include term/category-details.html category=page.category %}
 {% include term/armor-set-details.html armor_set=page.armor_set %}
 {% include term/drops-from.html drops_from=page.drops_from %}
 {% include term/recipes.html recipes=page.recipes %}
 {% include term/blueprints.html blueprints=page.blueprints %}
-{% include term/structure-can-craft.html structure=page.title %}
+{% include term/structure-can-craft.html structure=page.title category=page.category %}

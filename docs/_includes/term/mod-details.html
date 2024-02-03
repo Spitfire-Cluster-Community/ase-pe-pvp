@@ -1,7 +1,7 @@
-{%- if page.category == "Mod" -%}
+{%- if include.category == "Mod" -%}
 
     {%- capture output -%}
-        {%- assign terms = site.terms | where: "mod", page.mod | sort: title -%}
+        {%- assign terms = site.terms | where: "mod", include.mod | sort: title -%}
         {%- for term in terms -%}
             {%- if term.category != "Mod" -%}
                 <li>
@@ -20,9 +20,10 @@
 
 {%- else -%}
 
-    {%- if page.mod -%}
+    {%- if include.mod -%}
         <h2>Mod</h2>
-        {% include link.html collection="glossary" title=page.mod %}
+        {% assign mod = include.mod | append: " (mod)" %}
+        {% include link.html collection="glossary" title=mod %}
     {%- endif -%}
 
 {%- endif -%}
