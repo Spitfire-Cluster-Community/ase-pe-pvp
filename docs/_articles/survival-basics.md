@@ -41,7 +41,7 @@ The following provides a guide to some essential and useful items.
 ### Crafting
 
 - {% include link.html collection="glossary" title="Eternal Workbench" %} - Used to craft Eternal items.
-- {% include link.html collection="glossary" title="Eternal Forge" %} - Quickly smelt metal.
+- {% include link.html collection="glossary" title="Eternal Industrial Forge" %} - Quickly smelt metal.
 - {% include link.html collection="glossary" title="Spitfire Armory" %} - Craft weapons, turrets, ammo, etc.
   - Also see [youtube Spitfire Armory Showcase](https://www.youtube.com/watch?v=Naniu1xnSMQ)
 - {% include link.html collection="glossary" title="Eternal Resource Converter" %} - Crafts some items needed for PvE tasks.
@@ -56,7 +56,7 @@ The following provides a guide to some essential and useful items.
 
 - {% include link.html collection="glossary" title="Awesome Spyglass" %} - Allows you to easily see dinos stats as well as outlining dinos players and turrets.
 - {% include link.html collection="glossary" title="S+ Multitool" %} - Transfer items and auto drop junk.
-- {% include link.html collection="glossary" title="Eternal Multitool" %} (or lesser Eternal Tools eg: Pick, Hatchet, Sickle) - Unbreakable tool with additional harvest capability.
+- {% include link.html collection="glossary" title="Eternal Multitool" %} (or lesser Eternal Tools eg: {% include link.html collection="glossary" title="Crystal Pick" %} and {% include link.html collection="glossary" title="Crystal Hatchet" %}) - Unbreakable tool with additional harvest capability.
 
 ### Weapons
 
@@ -74,5 +74,5 @@ The following armor is unbreakable:
 
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Tip</p>
-<p>You can attach an {% include link.html collection="glossary" title="Eternal Glider" %} to the chestpiece to fly around the map.</p>
+<p>You can attach an {% include link.html collection="glossary" title="Eternal Glider Suit" %} to the chestpiece to fly around the map.</p>
 </div>

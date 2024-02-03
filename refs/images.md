@@ -1,26 +1,6 @@
 # Images
 
-## Ark Item Images
-
-Mostly came from wiki.gg
-
 ## Background Images 
-
-### Optimising and Cropping
-
-Images were processed using imagemagick.
-
-resize:
-
-```sh
-convert original.png -resize 1024x768 -quality 60 -depth 8 resized.png
-```
-
-crop (removing 140px from the top):
-
-```sh
-convert original.png -crop 1024x300+0+140 cropped.png
-```
 
 ### Sources
 
@@ -48,3 +28,19 @@ convert original.png -crop 1024x300+0+140 cropped.png
 - [primal-bosses.png](https://wallpapercosmos.com/w/middle-retina/9/2/9/1292358-1920x1080-desktop-full-hd-ark-survival-evolved-background-image.jpg)
 - [raiding-strategies.png](https://wallpapercosmos.com/w/middle-retina/c/7/e/1292392-2560x1440-desktop-hd-ark-survival-evolved-background-photo.jpg)
 - [defence-strategies.png](https://wallpapercosmos.com/w/middle-retina/f/6/3/1292555-2048x1152-desktop-hd-ark-survival-evolved-wallpaper-photo.jpg)
+
+### Optimising and Cropping
+
+Images were processed using imagemagick.
+
+resize:
+
+```sh
+convert original.png -resize 1024x768 -quality 60 -depth 8 resized.png
+```
+
+crop (removing 140px from the top):
+
+```sh
+convert original.png -crop 1024x300+0+140 cropped.png
+```

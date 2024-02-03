@@ -18,8 +18,6 @@ You can obtain endgame armor and gear by defeating creatures and bosses.  See {%
 
 ### Ark Eternal Armor
 
-- {% include link.html collection="glossary" title="Eternal Desert Cloth Armor" %} - very early craftable
-- {% include link.html collection="glossary" title="Eternal Ghillie Armor" %} - early craftable
 - {% include link.html collection="glossary" title="Eternal Armor" %} - cannot BP
 - {% include link.html collection="glossary" title="Eternal Tek Armor" %}
 - {% include link.html collection="glossary" title="Eternal Tek (advanced) Armor" %}
@@ -32,7 +30,7 @@ You can obtain endgame armor and gear by defeating creatures and bosses.  See {%
 
 ## Player Gear
 
-- {% include link.html collection="glossary" title="Eternal Glider" %}
+- {% include link.html collection="glossary" title="Eternal Glider Suit" %}
 - for more see {% include link.html title="Weapons and Parts" %}
 
 ## Creature Armor

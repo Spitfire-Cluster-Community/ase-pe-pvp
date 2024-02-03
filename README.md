@@ -17,6 +17,7 @@ for more information on how you can help the community.
 - [Tailwind](refs/tailwind.md) - utility-first CSS framework.
 - [Flowbite](refs/flowbite.md) - library of UI components based on TailwindCSS.
 - [GitHub Pages Markdown CSS](refs/github-pages-markdown-css.md) - minimal CSS to replicate the GitHub Markdown style.
+- [PHPStorm](refs/phpstorm.md) - development tool for web projects.
 - [Images](refs/images.md) - list of images and where they were taken from.
 
 ## Resources
