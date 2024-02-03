@@ -2,7 +2,7 @@
 title: Creator Tek Gauntlets
 category: Armor
 mod: Primal Fear
-drops_from: Pikkon the Creator
+drops_from: [Pikkon the Creator]
 armor_set: Creator Tek
 armor_type: Gauntlets
 max_armor: 10930

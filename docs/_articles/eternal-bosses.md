@@ -11,30 +11,30 @@ jumbotron:
 
 ## Structures
 
-- {% include term-link.html title="Eternal Boss Summoner" %} and {% include term-link.html title="Eternal Boss Summoner (Hard Mode)" %} and {% include term-link.html title="Eternal Boss Summoner (God Mode)" %}
+- {% include link.html collection="glossary" title="Eternal Boss Summoner" %} and {% include link.html collection="glossary" title="Eternal Boss Summoner (Hard Mode)" %} and {% include link.html collection="glossary" title="Eternal Boss Summoner (God Mode)" %}
   - Summons eternal bosses.
 
 ## Item Drops
 
-- {% include term-link.html title="God Shrine" %}
+- {% include link.html collection="glossary" title="God Shrine" %}
   - Automatically generates materials.
-- {% include term-link.html title="God Shrine (Boss Items)" %}
+- {% include link.html collection="glossary" title="God Shrine (Boss Items)" %}
   - Automatically generates artifacts and trophies.
 
 ## Armor Drops
 
-- {% include term-link.html title="Eternal Armor Set" %}
+- {% include link.html collection="glossary" title="Eternal Armor Set" %}
   - Do not make into bp or you cannot craft it.
-- {% include term-link.html title="Eternal Tek Armor Set" %}
-- {% include term-link.html title="Eternal Tek (advanced) Armor Set" %}
+- {% include link.html collection="glossary" title="Eternal Tek Armor Set" %}
+- {% include link.html collection="glossary" title="Eternal Tek (advanced) Armor Set" %}
 
 ## Creature Drops
 
-- {% include term-link.html title="Terra Nova" %} kill the terra nova boss from the summoner, a tamable one has a chance to drop.
-- {% include term-link.html title="Bacon Overload" %} - evolve see comments https://youtu.be/FAPluOMig7I?si=ySIq1yRXMPGgXl6A
-- {% include term-link.html title="Bacon Armageddon" %} - from Bacon Nemesis, tame with Bacon Arrow - todo - not sure how to get this...
-- {% include term-link.html title="Jinx" %} - drops from harbringer (whatever drops the beetles) ? Can be upgraded, can fly, can swim, protects the rider, can level speed, can shoot while riding
-- {% include term-link.html title="Silver Night Griffin" %} - where to get this?
+- {% include link.html collection="glossary" title="Terra Nova" %} kill the terra nova boss from the summoner, a tamable one has a chance to drop.
+- {% include link.html collection="glossary" title="Bacon Overload" %} - evolve see comments https://youtu.be/FAPluOMig7I?si=ySIq1yRXMPGgXl6A
+- {% include link.html collection="glossary" title="Bacon Armageddon" %} - from Bacon Nemesis, tame with Bacon Arrow - todo - not sure how to get this...
+- {% include link.html collection="glossary" title="Jinx" %} - drops from harbringer (whatever drops the beetles) ? Can be upgraded, can fly, can swim, protects the rider, can level speed, can shoot while riding
+- {% include link.html collection="glossary" title="Silver Night Griffin" %} - where to get this?
 
 ## Links
 

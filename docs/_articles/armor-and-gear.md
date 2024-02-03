@@ -11,7 +11,7 @@ jumbotron:
 
 ## Player Armor
 
-You can obtain endgame armor by defeating bosses.  See [Primal Bosses](../primal-bosses) and [Eternal Bosses](../eternal-bosses) for more information.
+You can obtain endgame armor by defeating bosses.  See {% include link.html title="Eternal Bosses" %} and {% include link.html title="Primal Bosses" %} for more information.
 
 - **Eternal Armor Set**
   - Eternal Helmet - 3x oxygen bonus

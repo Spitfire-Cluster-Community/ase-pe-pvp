@@ -13,9 +13,9 @@ jumbotron:
 
 At SpitfireCluster resources can be grown, and even duplicated!
 
-Use seeds and crop plots to upgrade to a {% include term-link.html title="Spitfire Tek Crop Plot Tier 2" %}.  This can be used to bulk-duplicate most resources.
+Use seeds and crop plots to upgrade to a {% include link.html collection="glossary" title="Spitfire Tek Crop Plot Tier 2" %}.  This can be used to bulk-duplicate most resources.
 
-You can make the Spitfire Essence seeds in the {% include term-link.html title="Spitfire Crop Bench" %}, or kill the bosses from the seed bench to get a bunch at random (If the bosses don't show, pickup and replace the bench).
+You can make the Spitfire Essence seeds in the {% include link.html collection="glossary" title="Spitfire Crop Bench" %}, or kill the bosses from the seed bench to get a bunch at random (If the bosses don't show, pickup and replace the bench).
 
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Tip</p>

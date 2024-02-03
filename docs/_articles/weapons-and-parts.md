@@ -13,62 +13,62 @@ jumbotron:
 
 In the Spitfire Cluster servers there is a unique weapon system that allows you to upgrade various weapons from Tier 1-4, some even offering a Legendary tier. 
 
-The following weapons can be crafted at the {% include term-link.html title="Spitfire Armory" %}.
+The following weapons can be crafted at the {% include link.html collection="glossary" title="Spitfire Armory" %}.
 
 ### Melee Weapons
 
-- {% include term-link.html title="Spitfire Pike" %}
-- {% include term-link.html title="Spitfire Electric Pike" %}
-- {% include term-link.html title="Spitfire Tranq Pike" %}
-- {% include term-link.html title="Spitfire Fire Pike" %}
-- {% include term-link.html title="Spitfire Ice Pike" %}
-- {% include term-link.html title="Spitfire Tekclaws" %}
-- {% include term-link.html title="Spitfire Arcane Sword" %}
+- {% include link.html collection="glossary" title="Spitfire Pike" %}
+- {% include link.html collection="glossary" title="Spitfire Electric Pike" %}
+- {% include link.html collection="glossary" title="Spitfire Tranq Pike" %}
+- {% include link.html collection="glossary" title="Spitfire Fire Pike" %}
+- {% include link.html collection="glossary" title="Spitfire Ice Pike" %}
+- {% include link.html collection="glossary" title="Spitfire Tekclaws" %}
+- {% include link.html collection="glossary" title="Spitfire Arcane Sword" %}
 
 ### Ranged Weapons
 
-- {% include term-link.html title="Spitfire AKM" %}
-- {% include term-link.html title="Spitfire MK18" %}
-- {% include term-link.html title="Spitfire Tek Cannon" %}
-- {% include term-link.html title="Spitfire Bow" %}
-- {% include term-link.html title="Spitfire Crossbow" %}
-- {% include term-link.html title="Spitfire Pistol" %}
-- {% include term-link.html title="Spitfire Longneck Rifle" %}
-- {% include term-link.html title="Spitfire Double Barrel Shotgun" %}
-- {% include term-link.html title="Spitfire Spas 12" %}
-- {% include term-link.html title="Spitfire Net Launcher" %}
-- {% include term-link.html title="Spitfire Harpoon Launcher" %}
-- {% include term-link.html title="Spitfire MP5A2" %}
-- {% include term-link.html title="Spitfire Fab Pistol" %}
-- {% include term-link.html title="Spitfire Pump Shotgun" %}
-- {% include term-link.html title="Spitfire Assault Rifle" %}
-- {% include term-link.html title="Spitfire Flamethrower" %}
-- {% include term-link.html title="Spitfire Compound Bow" %}
-- {% include term-link.html title="Spitfire Sniper Rifle" %}
-- {% include term-link.html title="Spitfire SVD Dragnov" %}
-- {% include term-link.html title="Spitfire Rocket Launcher" %}
-- {% include term-link.html title="Spitfire Minigun" %}
-- {% include term-link.html title="Spitfire Tek Railgun" %}
-- {% include term-link.html title="Spitfire EMP Shoulder Cannon" %}
-- {% include term-link.html title="Spitfire Tekrifle" %}
-- {% include term-link.html title="Spitfire Tekbow" %}
-- {% include term-link.html title="Spitfire Tek SMG" %}
-- {% include term-link.html title="Spitfire Tek Pistol" %}
-- {% include term-link.html title="Spitfire Tek Grenade Launcher" %}
+- {% include link.html collection="glossary" title="Spitfire AKM" %}
+- {% include link.html collection="glossary" title="Spitfire MK18" %}
+- {% include link.html collection="glossary" title="Spitfire Tek Cannon" %}
+- {% include link.html collection="glossary" title="Spitfire Bow" %}
+- {% include link.html collection="glossary" title="Spitfire Crossbow" %}
+- {% include link.html collection="glossary" title="Spitfire Pistol" %}
+- {% include link.html collection="glossary" title="Spitfire Longneck Rifle" %}
+- {% include link.html collection="glossary" title="Spitfire Double Barrel Shotgun" %}
+- {% include link.html collection="glossary" title="Spitfire Spas 12" %}
+- {% include link.html collection="glossary" title="Spitfire Net Launcher" %}
+- {% include link.html collection="glossary" title="Spitfire Harpoon Launcher" %}
+- {% include link.html collection="glossary" title="Spitfire MP5A2" %}
+- {% include link.html collection="glossary" title="Spitfire Fab Pistol" %}
+- {% include link.html collection="glossary" title="Spitfire Pump Shotgun" %}
+- {% include link.html collection="glossary" title="Spitfire Assault Rifle" %}
+- {% include link.html collection="glossary" title="Spitfire Flamethrower" %}
+- {% include link.html collection="glossary" title="Spitfire Compound Bow" %}
+- {% include link.html collection="glossary" title="Spitfire Sniper Rifle" %}
+- {% include link.html collection="glossary" title="Spitfire SVD Dragnov" %}
+- {% include link.html collection="glossary" title="Spitfire Rocket Launcher" %}
+- {% include link.html collection="glossary" title="Spitfire Minigun" %}
+- {% include link.html collection="glossary" title="Spitfire Tek Railgun" %}
+- {% include link.html collection="glossary" title="Spitfire EMP Shoulder Cannon" %}
+- {% include link.html collection="glossary" title="Spitfire Tekrifle" %}
+- {% include link.html collection="glossary" title="Spitfire Tekbow" %}
+- {% include link.html collection="glossary" title="Spitfire Tek SMG" %}
+- {% include link.html collection="glossary" title="Spitfire Tek Pistol" %}
+- {% include link.html collection="glossary" title="Spitfire Tek Grenade Launcher" %}
 
 ### Other
 
-- {% include term-link.html title="Spitfire C4" %}
+- {% include link.html collection="glossary" title="Spitfire C4" %}
 
 ## Essential Weapons
 
 Recommend weapons for new players to bring up to max tier:
 
-- {% include term-link.html title="Spitfire Electric Pike" %}
-- {% include term-link.html title="Spitfire Tek Rifle" %}
-- {% include term-link.html title="Spitfire Tekbow" %}
-- {% include term-link.html title="Spitfire Rocket Launcher" %}
-- {% include term-link.html title="Spitfire Net Gun" %}
+- {% include link.html collection="glossary" title="Spitfire Electric Pike" %}
+- {% include link.html collection="glossary" title="Spitfire Tek Rifle" %}
+- {% include link.html collection="glossary" title="Spitfire Tekbow" %}
+- {% include link.html collection="glossary" title="Spitfire Rocket Launcher" %}
+- {% include link.html collection="glossary" title="Spitfire Net Gun" %}
 
 In addition, the AR and shotgun style weapons are good for spray and pray with electric ammo to stun your enemies.
 
@@ -80,16 +80,16 @@ Weapons parts and attachments can be found in Beaver Dams as well as Supply Drop
 
 Attachments are required to upgrade some weapons to the Legendary tier. They can also be manually added at any tier.
 
-1. Put the weapon and the desired attachment into the {% include term-link.html title="Spitfire Armory" %}.
+1. Put the weapon and the desired attachment into the {% include link.html collection="glossary" title="Spitfire Armory" %}.
 1. Ensure the weapon is selected then click Add Attachment .
 
 ## How to upgrade a weapon
 
-1. Put the weapon and the required parts into the {% include term-link.html title="Spitfire Armory" %}.
+1. Put the weapon and the required parts into the {% include link.html collection="glossary" title="Spitfire Armory" %}.
 1. Ensure the weapon is selected then click Upgrade Weapon.
 1. The weapon will either be upgraded or it will tell you the missing parts. Repeat step 2 until the weapon is full upgraded.
 
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Tip</p>
-<p>Use the {% include term-link.html title="Blueprint Station" %} to create a blueprint of your upgraded weapon incase you lose it. You will need multiple parts for an upgrade, it's recommended to put them directly into the {% include term-link.html title="Blueprint Station" %} and convert them to a blueprint for later use. Also see <a href="../upgrading-items/">Upgrading Items</a> to blueprint beyond the limit of 3 crafts.</p>
+<p>Use the {% include link.html collection="glossary" title="Blueprint Station" %} to create a blueprint of your upgraded weapon incase you lose it. You will need multiple parts for an upgrade, it's recommended to put them directly into the {% include link.html collection="glossary" title="Blueprint Station" %} and convert them to a blueprint for later use. Also see <a href="../upgrading-items/">Upgrading Items</a> to blueprint beyond the limit of 3 crafts.</p>
 </div>

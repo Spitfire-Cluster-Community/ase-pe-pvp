@@ -6,7 +6,7 @@ category: Resource
 mod: Ark Eternal
 references:
   - url: https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Dino_Blood
-dropped_by: [Eternal Creatures]
+drops_from: [Eternal Creatures]
 recipes:
   - structures: [Eternal God Shrine]
 ---

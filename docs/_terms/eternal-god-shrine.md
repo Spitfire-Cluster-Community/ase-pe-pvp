@@ -6,5 +6,5 @@ category: Structure
 mod: Ark Eternal
 references:
   - url: https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Eternal_God_Shrine
-dropped_by: [End Boss Creatures]
+drops_from: [End Boss Creatures]
 ---

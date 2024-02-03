@@ -6,8 +6,8 @@ category: Weapon
 mod: Primal Fear
 references:
   - url: https://primalfear.wiki.gg/es/wiki/Club_Torch_of_Destruction
-dropped_by: ["Pikkon’s Revenge"]
-recipes:
+drops_from: ["Pikkon’s Revenge"]
+blueprints:
   - structures: [Primal Smithy]
     ingredients:
       - names: [Unknown Substance]

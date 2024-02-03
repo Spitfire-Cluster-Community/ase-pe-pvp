@@ -27,8 +27,8 @@ jumbotron:
 
 ## Offline Raid Protection
 
-See {% include term-link.html title="MAGA ORP" %}
+See {% include link.html collection="glossary" title="MAGA ORP" %}
 
 ## Hide Under a Rock
 
-See {% include term-link.html title="Camo Projector" %}
+See {% include link.html collection="glossary" title="Camo Projector" %}

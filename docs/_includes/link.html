@@ -1,0 +1,10 @@
+{%- if include.url -%}
+    {%- assign url = include.url -%}
+{%- else -%}
+    {%- if include.collection -%}
+        {%- assign url = include.title | slugify  | prepend: "/" | prepend: include.collection  | prepend: "/" -%}
+    {%- else -%}
+        {%- assign url = include.title | slugify | prepend: "/" -%}
+    {%- endif -%}
+{%- endif -%}
+<a class="font-medium text-red-600 dark:text-blue-500 hover:underline" href="{{ url | prepend: site.baseurl }}">{{ include.title }}</a>

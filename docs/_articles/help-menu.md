@@ -22,9 +22,9 @@ From the menu you will be able to access:
   - rates
   - rules - also see [Ark Rules on official Spitfire website](https://spitfirecluster.com/index.php/ark-rules/)
 - Information
-  - vote and claim extra shop points - also see [Shop Menu](../shop-menu/)
+  - vote and claim extra shop points - also see {% include link.html title="Shop Menu" %}
   - view stats 
   - view achievements
-  - setup offline raid protection (ORP) - also see [PvP Protection](../pvp-protection/)
-  - auto-fill turrets - also see [Defence Strategies](../defence-strategies/)
+  - setup offline raid protection (ORP) - also see {% include link.html title="PvP Protection" %}
+  - auto-fill turrets - also see {% include link.html title="Defence Strategies" %}
 

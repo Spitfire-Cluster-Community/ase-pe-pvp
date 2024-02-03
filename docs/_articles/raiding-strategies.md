@@ -15,9 +15,9 @@ Found a base you want to raid?
 
 You will be expecting to die a lot, so create create a nearby FOB (Forward Operating Base) so you can respawn and retrieve your gear.
 
-- {% include term-link.html title="S+ Simple Bed" %}
-- {% include term-link.html title="Awesome Teleporter" %}
-- {% include term-link.html title="S+ Tek Generator" %}
+- {% include link.html collection="glossary" title="S+ Simple Bed" %}
+- {% include link.html collection="glossary" title="Awesome Teleporter" %}
+- {% include link.html collection="glossary" title="S+ Tek Generator" %}
 - Turrets
 
 ## Basic Strategy
@@ -28,52 +28,52 @@ A basic strategy is to use fast creatures like Novas to create meat walls to blo
 
 ## Spyglasses
 
-- {% include term-link.html title="Awesome Spyglass" %}
+- {% include link.html collection="glossary" title="Awesome Spyglass" %}
   - Outlines nearby turrets and enemies.
-- {% include term-link.html title="Arkomatic Spyglass" %}
+- {% include link.html collection="glossary" title="Arkomatic Spyglass" %}
   - Shows structure info and owner.
-- {% include term-link.html title="Eternal Spyglass" %}
+- {% include link.html collection="glossary" title="Eternal Spyglass" %}
   - Shows creature info.
 
 ## Health Potions
 
-- {% include term-link.html title="All In One HP Potion" %}
+- {% include link.html collection="glossary" title="All In One HP Potion" %}
 - TODO: add other eternal hp potions
-- {% include term-link.html title="H.O.T. Potion" %}
-- {% include term-link.html title="Alpha Health Potion" %}
-- {% include term-link.html title="Apex Health Potion" %}
-- {% include term-link.html title="Fabled Health Potion" %}
-- {% include term-link.html title="Primal Health Potion" %}
+- {% include link.html collection="glossary" title="H.O.T. Potion" %}
+- {% include link.html collection="glossary" title="Alpha Health Potion" %}
+- {% include link.html collection="glossary" title="Apex Health Potion" %}
+- {% include link.html collection="glossary" title="Fabled Health Potion" %}
+- {% include link.html collection="glossary" title="Primal Health Potion" %}
 
 ## Resistance Potions
 
-- {% include term-link.html title="Fire Resistance Potion" %}
-- {% include term-link.html title="Ice Resistance Potion" %}
-- {% include term-link.html title="Arcane Resistance Potion" %}
-- {% include term-link.html title="Tranq Resistance Potion" %}
-- {% include term-link.html title="Electric Resistance Potion" %}
+- {% include link.html collection="glossary" title="Fire Resistance Potion" %}
+- {% include link.html collection="glossary" title="Ice Resistance Potion" %}
+- {% include link.html collection="glossary" title="Arcane Resistance Potion" %}
+- {% include link.html collection="glossary" title="Tranq Resistance Potion" %}
+- {% include link.html collection="glossary" title="Electric Resistance Potion" %}
 
 ## Other Potions
 
-- {% include term-link.html title="2x Smaller Potion" %}
+- {% include link.html collection="glossary" title="2x Smaller Potion" %}
   - Makes you or your tame smaller.
   - Effects bite range.
-- ~~{% include term-link.html title="2x Bigger Potion" %}~~
+- ~~{% include link.html collection="glossary" title="2x Bigger Potion" %}~~
   - Makes you or your tame larger.
   - Effects bite range.
-- {% include term-link.html title="Feather Potion" %}
+- {% include link.html collection="glossary" title="Feather Potion" %}
   - Allows you or your tame to fly.
-- {% include term-link.html title="Cloak Potion" %}
+- {% include link.html collection="glossary" title="Cloak Potion" %}
   - Cannot be seen or attack.
-- {% include term-link.html title="Berserk Potion" %}
+- {% include link.html collection="glossary" title="Berserk Potion" %}
   - Increase melee damage.
 
 > TODO: Was there a youtube video about consumables?
 
 ## Weapons
 
-- {% include term-link.html title="Jamming Cruise Missle" %} - test this
-- {% include term-link.html title="EMP" %} - test this
+- {% include link.html collection="glossary" title="Jamming Cruise Missle" %} - test this
+- {% include link.html collection="glossary" title="EMP" %} - test this
 
 ## Video Guides
 

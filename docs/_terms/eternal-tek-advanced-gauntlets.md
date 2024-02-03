@@ -2,7 +2,7 @@
 title: Eternal Tek (advanced) Gauntlets
 category: Armor
 mod: Ark Eternal
-drops_from: Eternal EndBoss TODO
+drops_from: [Eternal EndBoss TODO]
 armor_set: Eternal Tek (advanced)
 armor_type: Gauntlets
 max_armor: 12996

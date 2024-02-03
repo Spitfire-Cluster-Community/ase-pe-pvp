@@ -13,22 +13,22 @@ jumbotron:
 
 | Turret | Base Damage | Range |
 | --- | --- | --- |
-| {% include term-link.html title="SpitFire Turret Tier 1" %} | 1M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Turret Tier 1 Armor Piercing" %} | 1M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Turret Tier 2" %} | 5M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Turret Tier 2 Armor Piercing" %} | 5M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Turret Tier 2 Arcane" %} | 5M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Turret Tier 2 Electric" %} | 5M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Turret Tier 2 Fire" %} | 5M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Turret Tier 2 Ice" %} | 5M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Tek Turret Tier 3" %} | 50M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Tek Turret Tier 4" %} | 150M | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire Tek Turret Tier 4 Electric" %} | 150M | 3000,8000,10000 | 
-| {% include term-link.html title="SpitFire Tek Turret Tier 4 Fire" %} | 150M | 3000,8000,10000 | 
-| {% include term-link.html title="SpitFire Tek Turret Tier 4 Ice" %} | 150M | 3000,8000,10000 | 
-| {% include term-link.html title="SpitFire Laser Turret" %} | 45% of Max Health, slow fire rate | 3000,8000,10000 | 
-| {% include term-link.html title="SpitFire Bola Turret" %} | <100 | 3000,8000,10000 |
-| {% include term-link.html title="SpitFire LRM Turret" %} | 75K (AOE) | 10000,150000,200000 | 
+| {% include link.html collection="glossary" title="SpitFire Turret Tier 1" %} | 1M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Turret Tier 1 Armor Piercing" %} | 1M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Turret Tier 2" %} | 5M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Turret Tier 2 Armor Piercing" %} | 5M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Turret Tier 2 Arcane" %} | 5M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Turret Tier 2 Electric" %} | 5M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Turret Tier 2 Fire" %} | 5M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Turret Tier 2 Ice" %} | 5M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Tek Turret Tier 3" %} | 50M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Tek Turret Tier 4" %} | 150M | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire Tek Turret Tier 4 Electric" %} | 150M | 3000,8000,10000 | 
+| {% include link.html collection="glossary" title="SpitFire Tek Turret Tier 4 Fire" %} | 150M | 3000,8000,10000 | 
+| {% include link.html collection="glossary" title="SpitFire Tek Turret Tier 4 Ice" %} | 150M | 3000,8000,10000 | 
+| {% include link.html collection="glossary" title="SpitFire Laser Turret" %} | 45% of Max Health, slow fire rate | 3000,8000,10000 | 
+| {% include link.html collection="glossary" title="SpitFire Bola Turret" %} | <100 | 3000,8000,10000 |
+| {% include link.html collection="glossary" title="SpitFire LRM Turret" %} | 75K (AOE) | 10000,150000,200000 | 
 
 <div class="markdown-alert markdown-alert-important">
 <p class="markdown-alert-title">Important</p>
@@ -59,7 +59,7 @@ jumbotron:
 
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Tip</p>
-<p>You can use an {% include term-link.html title="S+ Autocrafter" %} to make ammo quickly.</p>
+<p>You can use an {% include link.html collection="glossary" title="S+ Autocrafter" %} to make ammo quickly.</p>
 <p>Use the <code>/fill</code> command can move ammo from your inventory to nearby compatible turrets.</p>
 </div>
 

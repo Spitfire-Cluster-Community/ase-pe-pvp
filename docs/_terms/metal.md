@@ -5,5 +5,5 @@ category: Resource
 mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Metal
-drops_from: Rocks
+drops_from: [Rocks]
 ---

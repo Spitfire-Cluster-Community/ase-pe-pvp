@@ -5,5 +5,5 @@ category: Resource
 mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Keratin
-drops_from: Creatures
+drops_from: [Creatures]
 ---

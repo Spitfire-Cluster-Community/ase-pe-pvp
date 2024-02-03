@@ -5,5 +5,5 @@ category: Resource
 mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Thatch
-drops_from: Trees
+drops_from: [Trees]
 ---

@@ -31,4 +31,4 @@ In the rotation lineup are the following maps:
 - Scorched Earth
 - [Valguero Spitfire Extension](https://steamcommunity.com/sharedfiles/filedetails/?id=2976221827)
 
-For more information on our servers see [Join and Favourite](../join-and-favourite).
+For more information on our servers see {% include link.html title="Join and Favourite" %}.

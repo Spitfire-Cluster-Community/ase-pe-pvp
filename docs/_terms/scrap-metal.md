@@ -5,5 +5,5 @@ category: Resource
 mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Scrap_Metal
-drops_from: Tek Creatures
+drops_from: [Tek Creatures]
 ---

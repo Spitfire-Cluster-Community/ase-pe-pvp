@@ -11,42 +11,42 @@ jumbotron:
 
 ## Resource Crop Bosses
 
-Used to craft Crop Plots - see [Resource Crops](../resource-crops).
+Used to craft Crop Plots - see {% include link.html title="Resource Crops" %}.
 
-Craft the summoners in the {% include term-link.html title="Spitfire Crop Bench" %}.
+Craft the summoners in the {% include link.html collection="glossary" title="Spitfire Crop Bench" %}.
 
-- {% include term-link.html title="Gibbo Boss" %}
-- {% include term-link.html title="Snappy Long Snout Boss" %}
-- {% include term-link.html title="Tek Boss" %}
-- {% include term-link.html title="Water Boss" %}
+- {% include link.html collection="glossary" title="Gibbo Boss" %}
+- {% include link.html collection="glossary" title="Snappy Long Snout Boss" %}
+- {% include link.html collection="glossary" title="Tek Boss" %}
+- {% include link.html collection="glossary" title="Water Boss" %}
 
 ### Item Drops
 
-- {% include term-link.html title="Spitfire Essence Tier 1" %}
-- {% include term-link.html title="Spitfire Essence Tier 2" %}
-- {% include term-link.html title="Spitfire Essence Tier 3" %}
-- {% include term-link.html title="Spitfire Essence Tier 4" %}
+- {% include link.html collection="glossary" title="Spitfire Essence Tier 1" %}
+- {% include link.html collection="glossary" title="Spitfire Essence Tier 2" %}
+- {% include link.html collection="glossary" title="Spitfire Essence Tier 3" %}
+- {% include link.html collection="glossary" title="Spitfire Essence Tier 4" %}
 
-todo check these and move to dropped_by in the terms
+todo check these and move to drops_from in the terms
 
 
 ## Armory Bosses
 
-Craft the summoners in the {% include term-link.html title="Spitfire Armory" %}.
+Craft the summoners in the {% include link.html collection="glossary" title="Spitfire Armory" %}.
 
-- {% include term-link.html title="Boss The Pacifier" %}
-- {% include term-link.html title="Boss Laser Griffin" %}
-- {% include term-link.html title="Boss Eternal Predator" %}
+- {% include link.html collection="glossary" title="Boss The Pacifier" %}
+- {% include link.html collection="glossary" title="Boss Laser Griffin" %}
+- {% include link.html collection="glossary" title="Boss Eternal Predator" %}
 
 ### Item Drops
 
 #### Spitfire Vacuum Blueprints
 
-- {% include term-link.html title="Spitfire Vacuum Compartment" %}
-- {% include term-link.html title="Spitfire Vacuum Compartment Slope" %}
-- {% include term-link.html title="Spitfire Vacuum Moonpool" %}
-- {% include term-link.html title="Spitfire Vacuum Door" %}
-- {% include term-link.html title="Spitfire Vacuum Sealant" %}
+- {% include link.html collection="glossary" title="Spitfire Vacuum Compartment" %}
+- {% include link.html collection="glossary" title="Spitfire Vacuum Compartment Slope" %}
+- {% include link.html collection="glossary" title="Spitfire Vacuum Moonpool" %}
+- {% include link.html collection="glossary" title="Spitfire Vacuum Door" %}
+- {% include link.html collection="glossary" title="Spitfire Vacuum Sealant" %}
 
 <div class="markdown-alert markdown-alert-note">
 <p class="markdown-alert-title">Note</p>
@@ -55,12 +55,12 @@ Craft the summoners in the {% include term-link.html title="Spitfire Armory" %}.
 
 #### Consumables
 
-- {% include term-link.html title="AP Immunity Potion" %}
-- {% include term-link.html title="Arcane Immunity Potion" %}
-- {% include term-link.html title="Electric Immunity Potion" %}
-- {% include term-link.html title="Explosive Immunity Potion" %}
-- {% include term-link.html title="Fire Immunity Potion" %}
-- {% include term-link.html title="Ice Immunity Potion" %}
-- {% include term-link.html title="Tranq Immunity Potion" %}
-- {% include term-link.html title="Flews Special Cheddar" %}
+- {% include link.html collection="glossary" title="AP Immunity Potion" %}
+- {% include link.html collection="glossary" title="Arcane Immunity Potion" %}
+- {% include link.html collection="glossary" title="Electric Immunity Potion" %}
+- {% include link.html collection="glossary" title="Explosive Immunity Potion" %}
+- {% include link.html collection="glossary" title="Fire Immunity Potion" %}
+- {% include link.html collection="glossary" title="Ice Immunity Potion" %}
+- {% include link.html collection="glossary" title="Tranq Immunity Potion" %}
+- {% include link.html collection="glossary" title="Flews Special Cheddar" %}
 

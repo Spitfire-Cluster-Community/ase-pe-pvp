@@ -11,9 +11,9 @@ jumbotron:
 
 ## Upgrading Creature Stats
 
-Use the {% include term-link.html title="Dino Upgrade Table" %} to craft the items needed to transfer creature's base stats, for example from Food to Melee, Health, Stamina, Speed.
+Use the {% include link.html collection="glossary" title="Dino Upgrade Table" %} to craft the items needed to transfer creature's base stats, for example from Food to Melee, Health, Stamina, Speed.
 
-The {% include term-link.html title="Eternal Kibble Bench" %} can craft the kibble needed for upgrade items.
+The {% include link.html collection="glossary" title="Eternal Kibble Bench" %} can craft the kibble needed for upgrade items.
 
 ## Breeding Creature Stats
 
@@ -26,31 +26,31 @@ If you want to take the effort you can cross-breed and merge all the stats into 
 
 ## Useful Items
 
-- {% include term-link.html title="Soul Trap" %} and {% include term-link.html title="Soul Gun" %} - Trap tames to store in inventories.
-- {% include term-link.html title="Soul Terminal" %} - Auto collects new-born creatures - needs to be enabled in the terminal options.
+- {% include link.html collection="glossary" title="Soul Trap" %} and {% include link.html collection="glossary" title="Soul Gun" %} - Trap tames to store in inventories.
+- {% include link.html collection="glossary" title="Soul Terminal" %} - Auto collects new-born creatures - needs to be enabled in the terminal options.
 
 ## Breeding Potions
 
-- {% include term-link.html title="Breeding Reset Potion" %} - Instantly resets breeding cooldown.
-- {% include term-link.html title="Mating Potion" %} - Instantly causes mating to complete.
-- {% include term-link.html title="Gestation Potion" %} - Instantly causes gestation.
-- {% include term-link.html title="Sex Change Potion" %} - Changes the gender of a tamed creature.
-- {% include term-link.html title="Baby Potion" %} - Allows you to imprint if you missed it.
+- {% include link.html collection="glossary" title="Breeding Reset Potion" %} - Instantly resets breeding cooldown.
+- {% include link.html collection="glossary" title="Mating Potion" %} - Instantly causes mating to complete.
+- {% include link.html collection="glossary" title="Gestation Potion" %} - Instantly causes gestation.
+- {% include link.html collection="glossary" title="Sex Change Potion" %} - Changes the gender of a tamed creature.
+- {% include link.html collection="glossary" title="Baby Potion" %} - Allows you to imprint if you missed it.
 
 ## Growing Creatures
 
-- {% include term-link.html title="S+ Nanny" %} - Normal grow time with perfect imprint.
-- {% include term-link.html title="Eternal Grow Up Potion" %} - Instant grow time but no imprint.
-- {% include term-link.html title="Eternal Dino Steroids" %} - Instant grow time with perfect imprint.
+- {% include link.html collection="glossary" title="S+ Nanny" %} - Normal grow time with perfect imprint.
+- {% include link.html collection="glossary" title="Eternal Grow Up Potion" %} - Instant grow time but no imprint.
+- {% include link.html collection="glossary" title="Eternal Dino Steroids" %} - Instant grow time with perfect imprint.
 
 ## Levelling Creatures
 
-- {% include term-link.html title="Max XP Potion" %} - Instantly level all levels.
-- {% include term-link.html title="Dino Mindwipe Potion" %} - Resets levels on a tamed creature.
+- {% include link.html collection="glossary" title="Max XP Potion" %} - Instantly level all levels.
+- {% include link.html collection="glossary" title="Dino Mindwipe Potion" %} - Resets levels on a tamed creature.
 
 ## Cloning Creatures
 
-Creatures can be cloned using the {% include term-link.html title="S+ Cloning Chamber" %}.  
+Creatures can be cloned using the {% include link.html collection="glossary" title="S+ Cloning Chamber" %}.  
 
 <div class="markdown-alert markdown-alert-note">
 <p class="markdown-alert-title">Note</p>

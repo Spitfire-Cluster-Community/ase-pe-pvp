@@ -5,7 +5,7 @@
         <li>
             {%- capture structure_links -%}
             {%- for structure in recipe.structures -%}
-            {%- include term-link.html title=structure -%},
+            {%- include link.html collection="glossary" title=structure -%},
             {%- endfor -%}
             {%- endcapture -%}
             Craft in
@@ -18,7 +18,7 @@
                     {{ ingredient.quantity }}x&nbsp;
                     {%- capture item_links -%}
                     {%- for ingredient_name in ingredient.names -%}
-                    {%- include term-link.html title=ingredient_name -%},
+                    {%- include link.html collection="glossary" title=ingredient_name -%},
                     {%- endfor -%}
                     {%- endcapture -%}
                     {{ item_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}

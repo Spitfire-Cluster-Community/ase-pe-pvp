@@ -19,34 +19,34 @@ You should first see the [wiki.gg - Ark Eternal - Darkstar Creatures](https://ar
 
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Note</p>
-<p>{% include term-link.html title="Darkstar Manticore" %} takes {% include term-link.html title="Alpha Wyvren Saddle" %}. This is a global saddle that should work on most creatures.</p>
+<p>{% include link.html collection="glossary" title="Darkstar Manticore" %} takes {% include link.html collection="glossary" title="Alpha Wyvren Saddle" %}. This is a global saddle that should work on most creatures.</p>
 </div>
 
 ## Useful Structures
 
-- {% include term-link.html title="Eternal Boss Summoner" %} - Used to summon bosses.
-- {% include term-link.html title="Eternal Resource Converter" %} - Used to craft some materials needed for evolution.
+- {% include link.html collection="glossary" title="Eternal Boss Summoner" %} - Used to summon bosses.
+- {% include link.html collection="glossary" title="Eternal Resource Converter" %} - Used to craft some materials needed for evolution.
 
 ## Evolution Materials
 
-- {% include term-link.html title="EVo Compy Summon Reagent" %}
-- {% include term-link.html title="EVo Archae Summon Reagent" %}
-- {% include term-link.html title="Dino Blood" %}
-- {% include term-link.html title="Prime Dino Blood" %}
-- {% include term-link.html title="Primordial Boss Essence" %}
-- {% include term-link.html title="Evolution Fuel" %}
-- {% include term-link.html title="Eternal Kibble" %}
-- {% include term-link.html title="Eternal Alpha Kibble" %}
-- {% include term-link.html title="Summoning Reagent" %}
-- {% include term-link.html title="Primordial Essence of Bigfoot" %}
-- {% include term-link.html title="Primordial Essence of Giga" %}
-- {% include term-link.html title="Primordial Essence of Mammoth" %}
-- {% include term-link.html title="Primordial Essence of Rhino" %}
-- {% include term-link.html title="Primordial Essence of Wyvern" %}
-- {% include term-link.html title="Dino Heart" %}
-- {% include term-link.html title="Dino DNA" %}
-- {% include term-link.html title="Mystery Element" %}
-- {% include term-link.html title="Eternal Dominus Token" %}
+- {% include link.html collection="glossary" title="EVo Compy Summon Reagent" %}
+- {% include link.html collection="glossary" title="EVo Archae Summon Reagent" %}
+- {% include link.html collection="glossary" title="Dino Blood" %}
+- {% include link.html collection="glossary" title="Prime Dino Blood" %}
+- {% include link.html collection="glossary" title="Primordial Boss Essence" %}
+- {% include link.html collection="glossary" title="Evolution Fuel" %}
+- {% include link.html collection="glossary" title="Eternal Kibble" %}
+- {% include link.html collection="glossary" title="Eternal Alpha Kibble" %}
+- {% include link.html collection="glossary" title="Summoning Reagent" %}
+- {% include link.html collection="glossary" title="Primordial Essence of Bigfoot" %}
+- {% include link.html collection="glossary" title="Primordial Essence of Giga" %}
+- {% include link.html collection="glossary" title="Primordial Essence of Mammoth" %}
+- {% include link.html collection="glossary" title="Primordial Essence of Rhino" %}
+- {% include link.html collection="glossary" title="Primordial Essence of Wyvern" %}
+- {% include link.html collection="glossary" title="Dino Heart" %}
+- {% include link.html collection="glossary" title="Dino DNA" %}
+- {% include link.html collection="glossary" title="Mystery Element" %}
+- {% include link.html collection="glossary" title="Eternal Dominus Token" %}
 
 ## Video Guide
 

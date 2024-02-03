@@ -1,24 +1,34 @@
 {%- if page.category == "Structure" -%}
 
-{%- capture output -%}
-    {%- for term in site.terms -%}
-        {%- for recipe in term.recipes -%}
-            {%- for structure in recipe.structures -%}
-                {%- if structure == include.structure -%}
-                <li>
-                    <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="{{ term.url | prepend: site.baseurl }}">{{ term.title }}</a>
-                </li>
-                {%- endif -%}
+    {%- capture output -%}
+        {%- assign terms = site.terms | sort: title -%}
+        {%- for term in terms -%}
+            {%- for recipe in term.recipes -%}
+                {%- for structure in recipe.structures -%}
+                    {%- if structure == include.structure -%}
+                        <li>
+                            <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="{{ term.url | prepend: site.baseurl }}">{{ term.title }}</a>
+                        </li>
+                    {%- endif -%}
+                {%- endfor -%}
+            {%- endfor -%}
+            {%- for blueprint in term.blueprints -%}
+                {%- for structure in blueprint.structures -%}
+                    {%- if structure == include.structure -%}
+                        <li>
+                            <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="{{ term.url | prepend: site.baseurl }}">{{ term.title }}</a> (blueprint required)
+                        </li>
+                    {%- endif -%}
+                {%- endfor -%}
             {%- endfor -%}
         {%- endfor -%}
-    {%- endfor -%}
-{%- endcapture -%}
+    {%- endcapture -%}
 
-{%- if output != "" -%}
-    <h2 class="mb-2 text-lg font-semibold text-gray-900 dark:text-white">Can Craft</h2>
-    <ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
-    {{ output }}
-    </ul>
-{%- endif -%}
+    {%- if output != "" -%}
+        <h2 class="mb-2 text-lg font-semibold text-gray-900 dark:text-white">Can Craft</h2>
+        <ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
+            {{ output }}
+        </ul>
+    {%- endif -%}
 
 {%- endif -%}

@@ -11,58 +11,58 @@ jumbotron:
 
 ## Bosses
 
-Craft Primal summoners in a {% include term-link.html title="Primal Smithy" %}.
+Craft Primal summoners in a {% include link.html collection="glossary" title="Primal Smithy" %}.
 
 ### Origins
 
-- {% include term-link.html title="Origin Spino" %}
-- {% include term-link.html title="Origin Rex" %}
-- {% include term-link.html title="Origin Raptor" %}
-- {% include term-link.html title="Origin Wyvren" %}
-- {% include term-link.html title="Origin Carno" %}
-- {% include term-link.html title="Origin Bear" %}
-- {% include term-link.html title="Origin Kairuku" %}
-- {% include term-link.html title="Origin Argentavis" %}
+- {% include link.html collection="glossary" title="Origin Spino" %}
+- {% include link.html collection="glossary" title="Origin Rex" %}
+- {% include link.html collection="glossary" title="Origin Raptor" %}
+- {% include link.html collection="glossary" title="Origin Wyvren" %}
+- {% include link.html collection="glossary" title="Origin Carno" %}
+- {% include link.html collection="glossary" title="Origin Bear" %}
+- {% include link.html collection="glossary" title="Origin Kairuku" %}
+- {% include link.html collection="glossary" title="Origin Argentavis" %}
 
 ### Colossus
 
-- {% include term-link.html title="Ice Colossus" %}
-- {% include term-link.html title="Fire Colossus" %}
-- {% include term-link.html title="Electric Colossus" %}
-- {% include term-link.html title="Caustic Colossus" %}
+- {% include link.html collection="glossary" title="Ice Colossus" %}
+- {% include link.html collection="glossary" title="Fire Colossus" %}
+- {% include link.html collection="glossary" title="Electric Colossus" %}
+- {% include link.html collection="glossary" title="Caustic Colossus" %}
 
 ### Emperor and Empress
 
-- {% include term-link.html title="Celestial Indominus Emperor" %}
-- {% include term-link.html title="Demonic Reaper Empress" %}
+- {% include link.html collection="glossary" title="Celestial Indominus Emperor" %}
+- {% include link.html collection="glossary" title="Demonic Reaper Empress" %}
 
 ### Guardians
 
-- {% include term-link.html title="Chaos Guardian" %}
-- {% include term-link.html title="Spirit Guardian" %}
+- {% include link.html collection="glossary" title="Chaos Guardian" %}
+- {% include link.html collection="glossary" title="Spirit Guardian" %}
 
 ### Creator and Destroyer
 
-- {% include term-link.html title="Nova the Destroyer" %}
-- {% include term-link.html title="Pikkon the Creator" %}
+- {% include link.html collection="glossary" title="Nova the Destroyer" %}
+- {% include link.html collection="glossary" title="Pikkon the Creator" %}
 
 ### Pikkon's Revenge
 
-- {% include term-link.html title="Pikkon's Revenge" %}
+- {% include link.html collection="glossary" title="Pikkon's Revenge" %}
 
 
 ## Armor and Weapon Drops
 
-- {% include term-link.html title="Origin Armor Set" %}
-- {% include term-link.html title="Demonic Armor Set" %}
-- {% include term-link.html title="Celestial Armor Set" %}
-- {% include term-link.html title="Creator Tek Armor Set" %}
-- {% include term-link.html title="Club Torch of Destruction" %}
+- {% include link.html collection="glossary" title="Origin Armor Set" %}
+- {% include link.html collection="glossary" title="Demonic Armor Set" %}
+- {% include link.html collection="glossary" title="Celestial Armor Set" %}
+- {% include link.html collection="glossary" title="Creator Tek Armor Set" %}
+- {% include link.html collection="glossary" title="Club Torch of Destruction" %}
 
 <div class="markdown-alert markdown-alert-tip">
 <p class="markdown-alert-title">Tip</p>
-<p>Use {% include term-link.html title="Upgrade Station" %} to salvage armor into {% include term-link.html title="Broken Pieces of Demonic Armor" %}, {% include term-link.html title="Broken Pieces of Celestial Armor" %} and {% include term-link.html title="Broken Pieces of Creator Armor" %}. Use {% include term-link.html title="Tek Crop Plot Tier 2" %} to duplicate the pieces.</p>
-<p>Use {% include term-link.html title="Upgrade Station" %} to salvage the club into {% include term-link.html title="Unknown Substance" %}. Use {% include term-link.html title="Blueprint Station" %} to make the club and substance into a BP.</p>
+<p>Use {% include link.html collection="glossary" title="Upgrade Station" %} to salvage armor into {% include link.html collection="glossary" title="Broken Pieces of Demonic Armor" %}, {% include link.html collection="glossary" title="Broken Pieces of Celestial Armor" %} and {% include link.html collection="glossary" title="Broken Pieces of Creator Armor" %}. Use {% include link.html collection="glossary" title="Tek Crop Plot Tier 2" %} to duplicate the pieces.</p>
+<p>Use {% include link.html collection="glossary" title="Upgrade Station" %} to salvage the club into {% include link.html collection="glossary" title="Unknown Substance" %}. Use {% include link.html collection="glossary" title="Blueprint Station" %} to make the club and substance into a BP.</p>
 </div>
 
 ## Links
