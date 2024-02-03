@@ -32,8 +32,8 @@ The following popular mods are used on the server:
 - [Upgrade My Dino](https://steamcommunity.com/sharedfiles/filedetails/?id=1961542614)
 
 In addition there are some cool custom mods that are exclusively configured for Spitfire Cluster's servers:
-- [spitfirecluster.com Armory](https://steamcommunity.com/sharedfiles/filedetails/?id=2831126384)
-- [SpitfireCluster.com Camo Rocks](https://steamcommunity.com/sharedfiles/filedetails/?id=2794515580)
+- [Spitfire Armory](https://steamcommunity.com/sharedfiles/filedetails/?id=2831126384)
+- [Camo Rocks](https://steamcommunity.com/sharedfiles/filedetails/?id=2794515580)
 - [Resource Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=700624475)
 - [MAGA ORP](https://steamcommunity.com/sharedfiles/filedetails/?id=2031840245)
 

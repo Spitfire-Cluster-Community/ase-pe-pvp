@@ -1,0 +1,30 @@
+{%- if page.category == "Mod" -%}
+
+    {%- capture output -%}
+        {%- assign terms = site.terms | sort: title -%}
+        {%- for term in terms -%}
+            {%- if term.mod == page.mod and term.category != "Mod" -%}
+                <li>
+                    {% include link.html collection="glossary" title=term.title url=term.url image=term.image %}
+                </li>
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endcapture -%}
+
+    {%- if output != "" -%}
+        <h2>Mod Terms</h2>
+        <ul class="no-list">
+            {{ output }}
+        </ul>
+    {%- endif -%}
+
+{%- else -%}
+
+    {%- if page.mod -%}
+        <h2>Mod</h2>
+        {% assign mod = page.mod | append: " Mod" %}
+        {% include link.html collection="glossary" title=mod %}
+    {%- endif -%}
+
+{%- endif -%}
+

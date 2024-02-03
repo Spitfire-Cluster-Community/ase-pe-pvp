@@ -2,7 +2,7 @@
 title: S+ Fabricator
 image: https://ark.wiki.gg/images/thumb/6/66/Fabricator.png/228px-Fabricator.png
 category: Structure
-mod: S+
+mod: Structures Plus
 references:
   - url: https://ark.wiki.gg/wiki/Mod:Structures_Plus/S%2B_Fabricator
 recipes: 

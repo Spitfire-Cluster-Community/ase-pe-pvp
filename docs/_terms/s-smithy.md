@@ -2,7 +2,7 @@
 title: S+ Smithy
 image: https://ark.wiki.gg/images/thumb/b/b9/Smithy.png/228px-Smithy.png
 category: Structure
-mod: S+
+mod: Structures Plus
 references:
   - url: https://ark.wiki.gg/wiki/Mod:Structures_Plus/S%2B_Smithy
 recipes: 

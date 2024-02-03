@@ -7,7 +7,11 @@
                     {% if reference.title %}
                         {{ reference.title }}
                     {% else %}
-                        {{ reference.url | remove: 'http://' | remove: 'https://' | split: '_' | join: ' ' | split: '/' | join: ' - ' }}
+                        {% assign url = reference.url %}
+                        {% assign url = url | split: '?' %}
+                        {% assign url = url[0] | remove: 'http://' | remove: 'https://' %}
+                        {% assign url = url | split: '_' | join: ' ' | split: '/' | join: ' - ' %}
+                        {{ url }}
                     {% endif %}
                 </a>
             </li>

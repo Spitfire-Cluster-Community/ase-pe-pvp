@@ -1,5 +1,6 @@
 ---
 title: Camo Projector
+image: https://ark.wiki.gg/images/thumb/1/18/Tek_Transmitter.png/228px-Tek_Transmitter.png
 description: Projects a ghostly or solid hologram with customisable model and texture.
 category: Structure
 mod: Camo Rocks

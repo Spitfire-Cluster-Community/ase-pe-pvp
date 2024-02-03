@@ -10,7 +10,7 @@ recipes:
         quantity: 2
       - names: [Spitfire Essence Tier 1]
         quantity: 4
-      - names: [Fibre]
+      - names: [Fiber]
         quantity: 60
       - names: [Stone]
         quantity: 100

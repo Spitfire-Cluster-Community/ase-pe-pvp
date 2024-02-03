@@ -2,7 +2,7 @@
 title: S+ Crafting Station
 image: https://ark.wiki.gg/images/thumb/1/1c/Mod_Structures_Plus_S-_Crafting_Station.png/228px-Mod_Structures_Plus_S-_Crafting_Station.png
 category: Structure
-mod: S+
+mod: Structures Plus
 references:
   - url: https://ark.wiki.gg/wiki/Mod:Structures_Plus/S%2B_Crafting_Station
 recipes: 

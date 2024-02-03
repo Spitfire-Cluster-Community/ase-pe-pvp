@@ -6,7 +6,7 @@ mod: Resource Crops
 recipes:
   - structures: [Spitfire Crop Bench]
     ingredients:
-      - names: [Fibre]
+      - names: [Fiber]
         quantity: 60
       - names: [Stone]
         quantity: 100

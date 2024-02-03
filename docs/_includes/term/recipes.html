@@ -12,7 +12,7 @@
                 {{ structure_links | remove_last: "," | split: "," | reverse | join: "," | replace_first: ",", " or " | split: "," | reverse | join: ", " }}
                 {%- if recipe.ingredients -%}
                 &nbsp;with ingredients:
-                <ul class="ps-5 mt-2 space-y-1 list-disc list-inside">
+                <ul>
                     {%- for ingredient in recipe.ingredients -%}
                         <li>
                             {{ ingredient.quantity }}x&nbsp;

@@ -2,7 +2,7 @@
 title: S+ Tek Transmitter
 image: https://ark.wiki.gg/images/thumb/1/18/Tek_Transmitter.png/228px-Tek_Transmitter.png
 category: Structure
-mod: S+
+mod: Structures Plus
 references:
   - url: https://ark.wiki.gg/wiki/Mod:Structures_Plus/S%2B_Tek_Transmitter
 recipes: 

@@ -2,7 +2,7 @@
 title: S+ Tek Replicator
 image: https://ark.wiki.gg/images/thumb/a/a2/Tek_Replicator.png/228px-Tek_Replicator.png
 category: Structure
-mod: S+
+mod: Structures Plus
 references:
   - url: https://ark.wiki.gg/wiki/Mod:Structures_Plus/S%2B_Tek_Replicator
 recipes: 
