@@ -11,15 +11,12 @@ jumbotron:
 
 ## Structures
 
-- {% include link.html collection="glossary" title="Eternal Boss Summoner" %} and {% include link.html collection="glossary" title="Eternal Boss Summoner (Hard Mode)" %} and {% include link.html collection="glossary" title="Eternal Boss Summoner (God Mode)" %}
-  - Summons eternal bosses.
+Use the {% include link.html collection="glossary" title="Eternal Boss Summoner" %} and {% include link.html collection="glossary" title="Eternal Boss Summoner (Hard Mode)" %} and {% include link.html collection="glossary" title="Eternal Boss Summoner (God Mode)" %} to summon eternal bosses.
 
 ## Item Drops
 
-- {% include link.html collection="glossary" title="God Shrine" %}
-  - Automatically generates materials.
-- {% include link.html collection="glossary" title="God Shrine (Boss Items)" %}
-  - Automatically generates artifacts and trophies.
+- {% include link.html collection="glossary" title="God Shrine" %} - Automatically generates materials.
+- {% include link.html collection="glossary" title="God Shrine (Boss Items)" %} - Automatically generates artifacts and trophies.
 
 ## Creature Drops
 
@@ -32,6 +29,4 @@ jumbotron:
 ## Links
 
 - [ark.wiki.gg - Loot Set Eternal](https://ark.wiki.gg/wiki/Mod:Ark_Eternal/Loot_Set_Eternal)
-- [youtube - How To Kill Bosses Early Game - Spitfire Primal Eternal 1000x](https://www.youtube.com/watch?v=F7e3yJi8Ma4)
-- [youtube - Mini Gun is OP for BOSSES!! - ARK Spitfire](https://www.youtube.com/watch?v=KNGG95Zla9g)
   

@@ -28,12 +28,9 @@ A basic strategy is to use fast creatures like Novas to create meat walls to blo
 
 ## Spyglasses
 
-- {% include link.html collection="glossary" title="Awesome Spyglass" %}
-  - Outlines nearby turrets and enemies.
-- {% include link.html collection="glossary" title="Arkomatic Spyglass" %}
-  - Shows structure info and owner.
-- {% include link.html collection="glossary" title="Eternal Spyglass" %}
-  - Shows creature info.
+- {% include link.html collection="glossary" title="Awesome Spyglass" %} - Outlines nearby turrets and enemies.
+- {% include link.html collection="glossary" title="Arkomatic Spyglass" %} - Shows structure info and owner.
+- {% include link.html collection="glossary" title="Eternal Spyglass" %} - Shows creature info.
 
 ## Health Potions
 
@@ -55,25 +52,10 @@ A basic strategy is to use fast creatures like Novas to create meat walls to blo
 
 ## Other Potions
 
-- {% include link.html collection="glossary" title="2x Smaller Potion" %}
-  - Makes you or your tame smaller.
-  - Effects bite range.
-- ~~{% include link.html collection="glossary" title="2x Bigger Potion" %}~~
-  - Makes you or your tame larger.
-  - Effects bite range.
-- {% include link.html collection="glossary" title="Feather Potion" %}
-  - Allows you or your tame to fly.
-- {% include link.html collection="glossary" title="Cloak Potion" %}
-  - Cannot be seen or attack.
-- {% include link.html collection="glossary" title="Berserk Potion" %}
-  - Increase melee damage.
-
-> TODO: Was there a youtube video about consumables?
-
-## Weapons
-
-- {% include link.html collection="glossary" title="Jamming Cruise Missle" %} - test this
-- {% include link.html collection="glossary" title="EMP" %} - test this
+- {% include link.html collection="glossary" title="2x Smaller Potion" %} - Makes you or your tame smaller.
+- {% include link.html collection="glossary" title="Feather Potion" %} - Allows you or your tame to fly.
+- {% include link.html collection="glossary" title="Cloak Potion" %} - Cannot be seen or attack.
+- {% include link.html collection="glossary" title="Berserk Potion" %} - Increase melee damage.
 
 ## Video Guides
 
