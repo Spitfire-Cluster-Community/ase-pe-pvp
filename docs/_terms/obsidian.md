@@ -5,5 +5,4 @@ category: Resource
 mod: Base
 references:
   - url: https://ark.wiki.gg/wiki/Obsidian
-drops_from: [Rocks]
 ---
