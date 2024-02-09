@@ -42,9 +42,9 @@ The following provides a guide to some essential and useful items.
 
 - {% include link.html collection="glossary" title="Eternal Workbench" %} - Used to craft Eternal items.
 - {% include link.html collection="glossary" title="Eternal Industrial Forge" %} - Quickly smelt metal.
-- {% include link.html collection="glossary" title="Spitfire Armory" %} - Craft weapons, turrets, ammo, etc.
-  - Also see [youtube Spitfire Armory Showcase](https://www.youtube.com/watch?v=Naniu1xnSMQ)
+- {% include link.html collection="glossary" title="Spitfire Armory" %} - Craft weapons, turrets, ammo, etc. - Also see [youtube Spitfire Armory Showcase](https://www.youtube.com/watch?v=Naniu1xnSMQ)
 - {% include link.html collection="glossary" title="Eternal Resource Converter" %} - Crafts some items needed for PvE tasks.
+- {% include link.html collection="glossary" title="S+ Grinder" %} - Grinds items back to their source materials.
 - {% include link.html collection="glossary" title="AA Workbench" %} - Crafts other AA buildings.
 - {% include link.html collection="glossary" title="AA Auto Grill" %} - Cooks meat in bulk.
 - {% include link.html collection="glossary" title="AA Spoiling Bin" %} - Spoils meat in bulk.
