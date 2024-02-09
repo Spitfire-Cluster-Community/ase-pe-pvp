@@ -6,7 +6,7 @@ mod: Structures Plus
 references:
   - url: https://ark.wiki.gg/wiki/Mod:Structures_Plus/S%2B_Cloning_Chamber
 recipes: 
-  - structures: [S+ Crafting Station, S+ Tek Replicator]
+  - structures: [S+ Tek Replicator]
     ingredients: 
       - names: [Metal Ingot, Scrap Metal Ingot]
         quantity: 5500
