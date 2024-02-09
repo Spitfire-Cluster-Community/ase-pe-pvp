@@ -9,6 +9,18 @@ jumbotron:
     position: center top
 ---
 
+
+## Strategies
+
+Place {% include link.html collection="glossary" title="SpitFire Vacuum Compartment" %} spam with all sides removed.  This will help prevent nearby FOBs.
+
+Take advantage of the free defence tames from a {% include link.html collection="glossary" title="Droid Factory" %}.
+
+Use a {% include link.html collection="glossary" title="Demonic Parasaur" %} to detect enemies.
+
+Place the {% include link.html collection="glossary" title="Eternal Predator Nest" %} and {% include link.html collection="glossary" title="Eternal Healing Generator" %} obtained from {% include link.html collection="glossary" title="Predator Tribute" %}.
+
+
 ## Turret Info
 
 | Turret | Base Damage | Range |
