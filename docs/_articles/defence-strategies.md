@@ -44,7 +44,7 @@ Place the {% include link.html collection="glossary" title="Eternal Predator Nes
 
 <div class="markdown-alert markdown-alert-important">
 <p class="markdown-alert-title">Important</p>
-<p>Set LRM to target `Players/Tames/Players&Tames Only` or it targets wilds in huge AOE and causes server lag.</p>
+<p>Set LRM to target <code>Players/Tames/Players&Tames Only</code> or it targets wilds in huge AOE and causes server lag.</p>
 </div>
 
 <div class="markdown-alert markdown-alert-note">
